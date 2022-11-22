@@ -1,7 +1,0 @@
----
-layout: default
-title: 2022 Reading List
-permalink: /books/2022.html
----
-
-# 2022 Reading list
