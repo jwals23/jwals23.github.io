@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2021 Reading List
+title: 2021 reading list
 permalink: /books/2021.html
 ---
 
