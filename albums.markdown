@@ -3,13 +3,18 @@ layout: default
 title: Album lists
 permalink: /albums.html
 ---
-# Album lists
 
-Since 2010, at the end of each year I make a list of my favorite 10 or 20 albums 
-from that year.
+<body> 
 
-**2021**
+<link rel="stylesheet" href="/assets/css/accordion.css">
 
+
+<h1>Album lists</h1>
+<p>Since 2010, at the end of each year I have made a list of my favorite 10 
+or 20 albums from that year.</p>
+
+<button class="accordion">2021</button>
+<div class="panel">
 <ol reversed>
 <li><em>Urban Diftwood</em> - Yasmin Williams</li>
 <li><em>Long Time Coming</em> - Sierra Ferrell</li>
@@ -22,26 +27,30 @@ from that year.
 <li><em>For Those I Love</em> - For Those I Love</li>
 <li><em>I Don't Live Here Anymore</em> - The War on Drugs</li>
 </ol>
+</div>
 
-**2020** (unranked)
+<button class="accordion">2020 (unranked)</button>
+<div class="panel">
+<ul>
+<li><em>2017-2019</em> - Against All Logic</li>
+<li><em>Jump Rope Glazers</em> - The Beths</li>
+<li><em>Serpentine Prison</em> - Matt Berninger</li>
+<li><em>Suddenly</em> - Caribou</li>
+<li><em>Making a Door Less Open</em> - Car Seat Headrest</li>
+<li><em>Speed Kills</em> - Chubby and the Gang</li>
+<li><em>Melee</em> - Dogleg</li>
+<li><em>Fetch the Bolt Cutters</em> - Fiona Apple</li>
+<li><em>Women in Music Pt III</em> - HAIM</li>
+<li><em>Sundowner</em> - Kevin Morby</li>
+<li><em>Every Bad</em> - Porridge Radio</li>
+<li><em>Lost in the Country</em> - Trace Mountains</li>
+<li><em>St Cloud</em> - Waxahatchee</li>
+<li><em>Thin Mind</em> - Wolf Parade</li>
+</ul>
+</div>
 
-* _2017-2019_ - Against All Logic
-* _Jump Rope Glazers_ - The Beths
-* _Serpentine Prison_ - Matt Berninger
-* _Suddenly_ - Caribou
-* _Making a Door Less Open_ - Car Seat Headrest
-* _Speed Kills_ - Chubby and the Gang
-* _Melee_ - Dogleg
-* _Fetch the Bolt Cutters_ - Fiona Apple
-* _Women in Music Pt III_ - HAIM
-* _Sundowner_ - Kevin Morby
-* _Every Bad_ - Porridge Radio
-* _Lost in the Country_ - Trace Mountains
-* _St. Cloud_ - Waxahatchee
-* _Thin Mind_ - Wolf Parade
-
-**2018**
-
+<button class="accordion">2018</button>
+<div class="panel">
 <ol reversed>
 <li><em>FM!</em> - Vince Staples</li>
 <li><em>Infinite Moment</em> - The Field</li>
@@ -64,9 +73,10 @@ from that year.
 <li><em>Twin Fantasy</em> - Car Seat Headrest</li>
 <li><em>Freedom</em> - Amen Dunes</li>
 </ol>
+</div>
 
-**2017**
-
+<button class="accordion">2017</button>
+<div class="panel">
 <ol reversed>
 <li><em>Antisocialites</em> - Alvvays</li>
 <li><em>Dirty Projectors</em> - Dirty Projectors</li>
@@ -89,3 +99,9 @@ from that year.
 <li><em>DAMN.</em> - Kendrick Lamar</li>
 <li><em>A Deeper Understanding</em> - The War on Drugs</li>
 </ol>
+</div>
+
+<script src="/assets/js/accordion.js"></script>
+
+</body>
+
