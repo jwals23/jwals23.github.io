@@ -49,6 +49,37 @@ or 20 albums from that year.</p>
 </ul>
 </div>
 
+<button class="accordion">2010s (The Decade)</button>
+<div class="panel">
+<ol reversed>
+<li><em>american dream</em> - LCD Soundsystem</li>
+<li><em>Ordinary Corrupt Human Love</em> - Deafheaven</li>
+<li><em>Swing Lo Magellan</em> - Dirty Projectors</li>
+<li><em>Sunbathing Animal</em> - Parquet Courts</li>
+<li><em>Masterpiece</em> - Big Thief</li>
+<li><em>Rock 'n' Roll Impotence</em> - Quick Piss</li>
+<li><em>Sirens</em> - Nicolas Jaar</li>
+<li><em>Brutalism</em> - IDLES</li>
+<li><em>22, A Million</em> - Bon Iver</li>
+<li><em>Silnce Yourself</em> - Savages</li>
+<li><em>Modern Vampires of the City</em> - Vampires of the Weekend</li>
+<li><em>Attack on Memory</em> - Cloud Nothings</li>
+<li><em>Past Life Martyred Saints</em> - EMA</li>
+<li><em>Freedom</em> - Amen Dunes</li>
+<li><em>Sometimes I Sit and Think, Sometimes I Just Sit</em> - Courtney Barnet</li>
+<li><em>I Love You, Honeybear</em> - Father John Misty</li>
+<li><em>No, My Name Is JEFFERY</em> - Young Thug</li>
+<li><em>Blond(e)</em> - Frank Ocean</li>
+<li><em>DAMN.</em> - Kendrick Lamar</li>
+<li><em>Go Tell Fire to the Mountain</em> - WU LYF</li>
+<li><em>Summertime '06</em> - Vince Staples</li>
+<li><em>A Deeper Understanding</em> - The War on Drugs</li>
+<li><em>Teens of Denial</em> - Car Seat Headrest</li>
+<li><em>My Beautiful Dark Twisted Fantasy</em> - Kanye West</li>
+<li><em>The Monitor</em> - Titus Andronicus</li>
+</ol>
+</div>
+
 <button class="accordion">2018</button>
 <div class="panel">
 <ol reversed>
@@ -161,6 +192,100 @@ or 20 albums from that year.</p>
 <li><em>Sunbathing Animal</em> - Parquet Courts</li>
 <li><em>LP1</em> - fka Twigs</li>
 <li><em>Lost in the Dream</em> - The War on Drugs</li>
+</ol>
+</div>
+
+<button class="accordion">2013</button>
+<div class="panel">
+<ol reversed>
+<li><em>Yeezus</em> - Kanye West</li>
+<li><em>Anxiety</em> - Autre Ne Veut</li>
+<li><em>Blowout</em> - The So So Glos</li>
+<li><em>New Moon</em> - The Men</li>
+<li><em>My Name Is My Name</em> - Pusha T</li>
+<li><em>Wondrous Bughouse</em> - Youth Lagoon</li>
+<li><em>Cupid Delux</em> - Blood Orange</li>
+<li><em>Floating Coffin</em> - Thee Oh Sees</li>
+<li><em>Monomania</em> - Deerhunter</li>
+<li><em>Nothing Was the Same</em> - Drake</li>
+<li><em>How Far Away</em> - Alex Bleeker & the Freaks</li>
+<li><em>Run the Jewels</em> - Run the Jewels</li>
+<li><em>Cyclops Reap</em> - White Fence</li>
+<li><em>Modern Vampires of the City</em> - Vampire Weekend</li>
+<li><em>Days are Gone</em> - HAIM</li>
+<li><em>Acid Rap</em> - Chance the Rapper</li>
+<li><em>MCII</em> - Mikal Cronin</li>
+<li><em>Wakin on a Pretty Daze</em> - Kurt Vile</li>
+<li><em>I'm Rich Beyond Your Wildest Dreams</em> - Diarrhea Planet</li>
+<li><em>FIDLAR</em> - FIDLAR</li>
+</ol>
+</div>
+
+<button class="accordion">2012</button>
+<div class="panel">
+<ol reversed>
+<li><em>Coexist</em> - The xx</li>
+<li><em>Shrines</em> - Purity Ring</li>
+<li><em>Vol. 1</em> - Young Man</li>
+<li><em>Death Dreams</em> - PS I Love You</li>
+<li><em>Celebration Rock</em> - Japandroids</li>
+<li><em>Open Your Heart</em> - The Men</li>
+<li><em>Local Business</em> - Titus Andronicus</li>
+<li><em>Give You the Ghost</em> - POLICA</li>
+<li><em>Django Django</em> - Django Django</li>
+<li><em>Break it Yourself / Hands of Glory</em> - Andrew Bird</li>
+<li><em>Put Your Back N 2 It</em> - Perfume Genius</li>
+<li><em>Sweet Heart Sweet Light</em> - Spiritualized</li>
+<li><em>Channel Orange</em> - Frank Ocean</li>
+<li><em>good kid, m.A.A.d city</em> - Kendrick Lamar</li>
+<li><em>Bloom</em> - Beach House</li>
+<li><em>Slaughterhouse</em> - Ty Segall</li>
+<li><em>The Idler Wheel...</em> - Fiona Apple</li>
+<li><em>Swing Lo Magellan</em> - Dirty Projectors</li>
+<li><em>Attack on Memory</em> - Cloud Nothings</li>
+<li><em>Dreams Say, View, Create, Shadow Leads</em> - Dustin Wong</li>
+</ol>
+</div>
+
+<button class="accordion">2011</button>
+<div class="panel">
+<ol reversed>
+<li><em>Organ Music</em> - Moonface</li>
+<li><em>Songs About Girls</em> - Lesbian Poetry</li>
+<li><em>When Saints Go Machine</em> - Konkylie</li>
+<li><em>House of Balloons</em> - The Weeknd</li>
+<li><em>We're New Here</em> - Gil Scott-Heron & Jamie xx</li>
+<li><em>Smoke Ring for My Halo</em> - Kurt Vile</li>
+<li><em>Live.Love.A$AP</em> - A$AP Rocky</li>
+<li><em>Stranger Ballet</em> - The Poison Control Center</li>
+<li><em>Return of 4eva</em> - Big K.R.I.T.</li>
+<li><em>Sound Kapital</em> - Handomse Furs</li>
+<li><em>Space Is Only Noise</em> - Nicolas Jaar</li>
+<li><em>Departing</em> - The Rural Alberta Advantage</li>
+<li><em>w h o k i l l</em> - tUnE-yArDs</li>
+<li><em>Take Care</em> - Drake</li>
+<li><em>Black Up</em> - Shabazz Palaces</li>
+<li><em>Bon Iver, Bon Iver</em> - Bon Iver</li>
+<li><em>James Blake</em> - James Blake</li>
+<li><em>Go Tell Fire to the Mountain</em> - WU LYF</li>
+<li><em>Last of the Country Gentlemen</em> - Josh T. Pearson</li>
+<li><em>Past Life Martyred Saints</em> - EMA</li>
+</ol>
+</div>
+
+<button class="accordion">2010</button>
+<div class="panel">
+<ol reversed>
+<li><em>Hippies</em> - Harlem</li>
+<li><em>Lucky Shiner</em> - Gold Panda</li>
+<li><em>Body Talk</em> - Robyn</li>
+<li><em>Teen Dream</em> - Beach House</li>
+<li><em>Forget</em> - Twin Shadow</li>
+<li><em>My Beautiful Dark Twisted Fantasy</em> - Kanye West</li>
+<li><em>The Monitor</em> - Titus Andronicus</li>
+<li><em>The Age of Adz</em> - Sufjan Stevens</li>
+<li><em>Christiania</em> - Napoleon IIIrd</li>
+<li><em>There is a Mountain</em> - Common Prayer</li>
 </ol>
 </div>
 
