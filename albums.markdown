@@ -101,6 +101,69 @@ or 20 albums from that year.</p>
 </ol>
 </div>
 
+<button class="accordion">2016</button>
+<div class="panel">
+<ol reversed>
+<li><em>Adore Life</em> - Savages</li>
+<li><em>Human Performance</em> - Parquet Courts</li>
+<li><em>Good Luck and Do Your Best</em> - Gold Panda</li>
+<li><em>Still Brazy</em> - YG</li>
+<li><em>MY WOMAN</em> - Angel Olsen</li>
+<li><em>Love Songs: Part Two</em> - Romare</li>
+<li><em>The Life of Pablo</em> - Kanye West</li>
+<li><em>Is The Is Are</em> - DIIV</li>
+<li><em>Atrocity Exhibition</em> - Danny Brown</li>
+<li><em>Singing Saw</em> - Kevin Morby</li>
+<li><em>The Dream Is Over</em> - PUP</li>
+<li><em>The Colour in Anything</em> - James Blake</li>
+<li><em>Coloring Book</em> - Chance the Rapper</li>
+<li><em>Sirens</em> - Nicolas Jaar</li>
+<li><em>Spiritual Songs for Lovers to Sing</em> - LUH</li>
+<li><em>22, A Million</em> - Bon Iver</li>
+<li><em>No, My Name is JEFFERY</em> - Young Thug</li>
+<li><em>Rock 'n' Roll Impotence</em> - Quick Piss</li>
+<li><em>Blond(e)</em> - Frank Ocean</li>
+<li><em>Teens of Denial</em> - Car Seat Headrest</li>
+</ol>
+</div>
+
+<button class="accordion">2015</button>
+<div class="panel">
+<ol reversed>
+<li><em>Before the World Was Big</em> - Girlpool</li>
+<li><em>Full Communism</em> - Downtown Boys</li>
+<li><em>Alter/These Thoughts are Like Mandatory Chores</em> - Yung</li>
+<li><em>Ivy Tripp</em> - Waxahatchee</li>
+<li><em>Surf</em> - Donnie Trumpet & the Social Experiment</li>
+<li><em>If You're Reading This It's Too Late</em> - Drake</li>
+<li><em>New Bermuda</em> - Deafheaven</li>
+<li><em>In Colour</em> - Jamie xx</li>
+<li><em>Barter 6</em> - Young Thug</li>
+<li><em>Sometimes I Sit and Think, Sometimes I Just Sit</em> - Courtney Barnett</li>
+<li><em>Art Angels</em> - Grimes</li>
+<li><em>Summertime '06</em> - Vince Staples</li>
+<li><em>I Love You, Honeybear</em> - Father John Misty</li>
+<li><em>The Most Lamentable Tragedy</em> - Titus Andronicus</li>
+<li><em>To Pimp a Butterfly</em> - Kendrick Lamar</li>
+</ol>
+</div>
+
+<button class="accordion">2014</button>
+<div class="panel">
+<ol reversed>
+<li><em>Metamodern Sounds in Country Music</em> - Sturgill Simpson</li>
+<li><em>Disgraceland</em> - The Orwells</li>
+<li><em>Rich Gang: The Tour, Part 1</em> - Young Thug & Rich Homie Quan</li>
+<li><em>Our Love</em> - Caribou</li>
+<li><em>St. Vince</em> - St. Vincent</li>
+<li><em>Run the Jewels 2</em> - Run the Jewels</li>
+<li><em>Burn Your Fire for No Witness</em> - Angel Olsen</li>
+<li><em>Sunbathing Animal</em> - Parquet Courts</li>
+<li><em>LP1</em> - fka Twigs</li>
+<li><em>Lost in the Dream</em> - The War on Drugs</li>
+</ol>
+</div>
+
 <script src="/assets/js/accordion.js"></script>
 
 </body>
