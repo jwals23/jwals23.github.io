@@ -13,6 +13,27 @@ permalink: /albums.html
 <p>Since 2010, at the end of each year I have made a list of my favorite 10 
 or 20 albums from that year.</p>
 
+<button class="accordion">2022</button>
+<div class="panel">
+<ol reversed>
+<li><em>Waterslide, Diving Board, Ladder to the Sky</em> - Porridge Radio</li>
+<li><em>Love the Stranger</em> - Friendship</li>
+<li><em>Big Time</em> - Angel Olsen</li>
+<li><em>Cruel Country</em> - Wilco</li>
+<li><em>In These Times</em> - Makaya McCraven</li>
+<li><em>Dissolution Wave</em> - Cloakroom</li>
+<li><em>Everything Was Beautiful</em> - Spiritualized</li>
+<li><em>angel in realtime.</em> - Gang of Youths</li>
+<li><em>Heartmind</em> - Cass McCombs</li>
+<li><em>This is a Photograph</em> - Kevin Morby</li>
+<li><em>Chloe and the Next 20th Century</em> - Father John Misty</li>
+<li><em>I Walked with You a Ways</em> - Plains</li>
+<li><em>Peculiar, Missouri</em> - Willi Carlisle</li>
+<li><em>LABYRINTHITIS</em> - Destroyer</li>
+<li><em>Dragon New Warm Mountain I Believe In You</em> - Big Thief</li>
+</ol>
+</div>
+
 <button class="accordion">2021</button>
 <div class="panel">
 <ol reversed>
@@ -61,7 +82,7 @@ or 20 albums from that year.</p>
 <li><em>Sirens</em> - Nicolas Jaar</li>
 <li><em>Brutalism</em> - IDLES</li>
 <li><em>22, A Million</em> - Bon Iver</li>
-<li><em>Silnce Yourself</em> - Savages</li>
+<li><em>Silence Yourself</em> - Savages</li>
 <li><em>Modern Vampires of the City</em> - Vampires of the Weekend</li>
 <li><em>Attack on Memory</em> - Cloud Nothings</li>
 <li><em>Past Life Martyred Saints</em> - EMA</li>
