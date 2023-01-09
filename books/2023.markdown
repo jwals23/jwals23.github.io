@@ -1,0 +1,11 @@
+---
+layout: default
+title: 2023 reading list
+permalink: /books/2023.html
+---
+
+# 2023 reading list
+
+**January**
+
+1. _The Decameron_ - Giovanni Boccaccio
