@@ -1,0 +1,41 @@
+---
+layout: default
+title: 2023 reading list
+permalink: /books/2023.html
+---
+
+# 2023 reading list
+
+**January**
+
+1. _The Decameron_ - Giovanni Boccaccio
+2. _A Tale of Two Cities_ - Charles Dickens
+3. _Zen Mind, Beginner's Mind_ - Shunryu Suzuki
+4. _Dilla Time_ - Dan Charnas
+
+    **February**
+
+5. _Oliver Twist_ - Charles Dickens
+6. _The Dutch House_ - Ann Patchett
+7. _The Night Watchman_ - Louise Erdrich
+
+    **March**
+
+8. _There There_ - Tommy Orange
+9. _Subprime Attention Crisis_ - Tim Hwang
+10. _The Great Believers_ - Rebecca Makkai
+11. _Hell of a Book_ - Jason Mott
+
+    **April**
+
+12. _Memorial_ - Bryan Washington
+13. _No Gods, No Monsters_ - Cadwell Turnbull
+14. _Zen Pathways_ - Bret Davis
+15. _The Rabbit Hutch_ - Tess Gunty
+
+    **June**
+
+16. _The Brothers Karamazov_ - Fyodor Dostoevsky
+17. _All This Could Be Different_ - Sarah Thankam Mathews
+18. _Sontag: Her Life and Work_ - Benjamin Moser
+19. _The Jewish Annotated New Testament_ - edited by Amy-Jill Levine and Marc Zvi Brettler
