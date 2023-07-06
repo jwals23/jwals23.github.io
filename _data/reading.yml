@@ -3,7 +3,7 @@ list:
   - year: "2023"
     books:
       - title: The Town of Babylon
-        author: Alendra Varela
+        author: Alejandro Varela
         year: 2022
 
       - title: The Jewish Annotated New Testament
@@ -863,4 +863,1495 @@ list:
 
       - title: The Undercommons
         author: Stefano Harney and Fred Moten
+
+  - year: "2018"
+    books:
+      - title: Undoing the Demos
+        author: Wendy Brown
+
+      - title: Pragmatism From Peirce to Dewey
+        author: John Murphy
+
+      - title: Confessions of the Fox
+        author: Jordy Rosenberg
+        star: yes
+
+      - title: Pride and Prejudice
+        author: Jane Austen
+
+      - title: The Public and Its Problems
+        author: John Dewey
+        star: yes
+
+      - title: Moral Consciousness and Communicative Action
+        author: Jurgen Habermas
+
+      - title: Tragic Choices
+        author: Guido Calabresi and Philip Bobbitt
+        star: yes
+
+      - title: Law, Pragmatism and Democracy
+        author: Richard Posner
+
+      - title: To the Lighthouse
+        author: Virginia Woolf
+        star: yes
+
+      - title: Nudge
+        author: Cass Sunstein and Richard Thaler
+
+      - title: The Cost-Benefit Revolution
+        author: Cass Sunstein
+
+      - title: Cultural Software
+        author: J.M. Balkin
+
+      - title: Mrs. Dalloway
+        author: Virginia Woolf
+        star: yes
+
+      - title: The Metaphysical Club
+        author: Louis Menand
+        star: yes
+
+      - title: Knowledge, Mind, and the Given
+        author: Willem deVries and Timm Triplett
+
+      - title: Empiricism and the Philosophy of Mind
+        author: Wilfrid Sellars
+
+      - title: The Concept of the Political
+        author: Carl Schmitt
+
+      - title: German for Reading
+        author: Karl Sandberg and John Wendel
+
+      - title: Marx, Capital, and the Madness of Economic Reason
+        author: David Harvey
+
+      - title: How to do Things with Words
+        author: J.L. Austin
+        star: yes
+
+      - title: Dalva
+        author: Jim Harrison
+
+      - title: I, Me, Mine
+        author: Beatrice Longuenesse
+
+      - title: The Brothers Karamazov
+        author: Fyodor Dostoevsky
+        star: yes
+
+      - title: Imagining Otherwise
+        author: Andrew Cutrofello
+
+      - title: Mind and World
+        author: John McDowell
+        star: yes
+
+      - title: Later Medieval Philosophy
+        author: John Marenbon
+
+      - title: The Structure of Scientific Revolutions
+        author: Thomas Kuhn
+
+      - title: Mistaken Identity
+        author: Asad Haider
+
+      - title: Ceremony
+        author: Leslie Marmon Silko
+
+      - title: Philosophy and the Mirror of Nature
+        author: Richard Rorty
+        star: yes
+
+      - title: Problems of Knowledge
+        author: John Marenbon
+
+      - title: Early Medieval Philosophy
+        author: John Marenbon
+
+      - title: Open City
+        author: Teju Cole
+
+      - title: The Sublime Object of Ideology
+        author: Slavoj Zizek
+
+      - title: Invisible Man
+        author: Ralph Ellison
+        star: yes
+
+      - title: Medieval Philosophy A Beginner's Guide
+        author: Sharon Kaye
+
+      - title: Medieval Philosophy A Very Short Introduction
+        author: John Marenbon
+
+      - title: They Can't Kill Us Until They Kill Us
+        author: Hanif Abdurraqib
+        star: yes
+
+      - title: Against Everything
+        author: Mark Greif
+
+      - title: The Critique of Instrumental Reason from Weber to Habermas
+        author: Darrow Schechter
+
+      - title: The Idiot
+        author: Elif Batuman
+
+      - title: Among the Thugs
+        author: Bill Buford
+
+      - title: I Am Not Sidney Poitier
+        author: Percival Everett
+
+      - title: A History of the African-American People by Strom Thurmond
+        author: Percival Everett
+
+      - title: Conversations with Friends
+        author: Sally Rooney
+
+      - title: Erasure
+        author: Percival Everett
+        star: yes
+
+      - title: Alienation
+        author: Rahel Jaeggi
+
+      - title: Leaving the Atocha Station
+        author: Ben Lerner
+
+      - title: Alienation and Affect
+        author: Warren TenHouten
+
+      - title: Bluets
+        author: Maggie Nelson
+        star: yes
+
+      - title: The Unseeen
+        author: Nanni Balestrini
+
+      - title: Twenty Theses on Politics
+        author: Enrique Dussel
+
+      - title: The Man of Reason
+        author: Genevieve Lloyd
+
+      - title: We Have Never Been Modern
+        author: Bruno Latour
+        star: yes
+
+      - title: What is to be Done?
+        author: Vladimir Lenin
+
+      - title: The Flamethrowers
+        author: Rachel Kushner
+
+      - title: European Universalism
+        author: Immanuel Wallerstein
+
+      - title: Discourse on Colonialism
+        author: Aime Cesaire
+
+      - title: Invisible Cities
+        author: Italo Calvino
+
+      - title: Historical Capitalism with Capitalist Civilization
+        author: Immanuel Wallerstein
+
+      - title: Decolonizing Dialectics
+        author: George Ciccariello-Maher
+
+      - title: Marx and Alienation
+        author: Sean Sayers
+
+      - title: The Eighteenth Brumaire of Louis Bonaparte
+        author: Karl Marx
+        star: yes
+
+      - title: The Story of the Lost Child
+        author: Elena Ferrante
+        star: yes
+
+      - title: Alienation
+        author: Dan Swain
+
+      - title: Down with Childhood
+        author: Paul Rekret
+
+      - title: Those Who Leave and Those Who Stay
+        author: Elena Ferrante
+        star: yes
+
+      - title: The End of Progress
+        author: Amy Allen
+
+      - title: Ghosts of My Life
+        author: Mark Fisher
+        star: yes
+
+      - title: The Story of a New Name
+        author: Elena Ferrante
+        star: yes
+
+      - title: Freedom Dreams
+        author: Robyn D.G. Kelley
+
+      - title: My Brilliant Friend
+        author: Elena Ferrante
+        star: yes
+
+      - title: Introduction to Logic
+        author: Irving Copi and Carl Cohen
+
+      - title: The Capitalist Schema
+        author: Christian Lotz
+
+      - title: So Much Blue
+        author: Percival Everett
+        star: yes
+
+  - year: "2017"
+    books:
+      - title: A Small Place
+        author: Jamaica Kinkaid
+
+      - title: The Argonauts
+        author: Maggie Nelson
+        star: yes
+
+      - title: 10:04
+        author: Ben Lerner
+        star: yes
+
+      - title: Hotel World
+        author: Ali Smith
+
+      - title: Giving an Account of Oneself
+        author: Judith Butler
+
+      - title: The Water Cure
+        author: Percival Everett
+
+      - title: Dark Deleuze
+        author: Andrew Culp
+
+      - title: Black Skin, White Masks
+        author: Frantz Fanon
+
+      - title: Wounded
+        author: Percival Everett
+
+      - title: Glyph
+        author: Percival Everett
+        star: yes
+
+      - title: Minima Moralia
+        author: Theodor Adorno
+        star: yes
+
+      - title: Watershed
+        author: Percival Everett
+
+      - title: Death and Mastery
+        author: Benjamin Fong
+        star: yes
+
+      - title: Group Psychology and the Analysis of the Ego
+        author: Sigmund Freud
+
+      - title: The Ego and the Id
+        author: Sigmund Freud
+
+      - title: Frenzy
+        author: Percival Everett
+
+      - title: Beyond the Pleasure Principle
+        author: Sigmund Freud
+
+      - title: French Stories
+        author: edited by Wallace Fowlie
+
+      - title: God's Country
+        author: Percival Everett
+
+      - title: Civilization and its Discontents
+        author: Sigmund Freud
+
+      - title: Walk Me to the Distance
+        author: Percival Everett
+
+      - title: Suder
+        author: Percival Everett
+        star: yes
+
+      - title: The Record Store of the Mind
+        author: Josh Rosenthal
+
+      - title: Yellow Back Radio Broke-Down
+        author: Ishmael Reed
+
+      - title: The Free-Lance Pallbearers
+        author: Ishmael Reed
+
+      - title: Trotsky for Beginners
+        author: Tariq Ali and Phil Evans
+
+      - title: Adorno
+        author: Roger Foster
+
+      - title: Shake It Up
+        author: edited by Jonathan Lethem and Kevin Dettmar
+
+      - title: Adorno
+        author: Martin Jay
+
+      - title: The Limits to Capital
+        author: David Harvey
+        star: yes
+
+      - title: The Odyssey
+        author: Homer
+
+      - title: Late Capitalism
+        author: Ernest Mandel
+
+      - title: The Making of Marx's Capital
+        author: Roman Rosdolsky
+        star: yes
+
+      - title: Capitalism in the Age of Globalization
+        author: Samir Amin
+
+      - title: Eurocentrism
+        author: Samir Amin
+        star: yes
+
+      - title: The Iliad
+        author: Homer
+
+      - title: Imperialism
+        author: V.I. Lenin
+
+      - title: An Introduction to Marxist Economic Theory
+        author: Ernest Mandel
+
+      - title: Literal Meaning
+        author: Francois Recanati
+
+      - title: Free Pizza for Life
+        author: Chris Clavin
+
+      - title: Wittgenstein's Mistress
+        author: David Markson
+        star: yes
+
+      - title: The Racial Contract
+        author: Charles Mills
+        star: yes
+
+      - title: Beloved
+        author: Toni Morrison
+        star: yes
+
+      - title: Early Greek Thinking
+        author: Martin Heidegger
+
+      - title: Discourse on the Origin of Inequality
+        author: Jean-Jacques Rousseau
+
+      - title: White Riot
+        author: edited by Stephen Duncombe and Maxwell Tremblay
+
+      - title: Hegel or Spinoza
+        author: Pierre Macherey
+
+      - title: The Trial and Death of Socrates
+        author: Plato
+
+      - title: Distant Star
+        author: Robert Bolano
+
+      - title: The Body Problematic
+        author: Laura Hengehold
+
+      - title: In Excess
+        author: Jean-Luc Marion
+
+      - title: Last Evenings on Earth
+        author: Roberto Bolano
+
+      - title: That Winter the Wolf Came
+        author: Juliana Spahr
+        star: yes
+
+      - title: Born to Run
+        author: Bruce Springsteen
+        star: yes
+
+  - year: "2016"
+    books:
+      - title: Citizen 13660
+        author: Mine Okubo
+
+      - title: Toward a Phenomenology of Sexual Difference
+        author: Sara Heinamaa
+
+      - title: Hope in the Dark
+        author: Rebecca Solnit
+
+      - title: Radical Bookselling
+        author: Doris Jo Moskowitz
+
+      - title: Riot. Strike. Riot
+        author: Joshua Clover
+        star: yes
+
+      - title: Spinoza Practical Philosophy
+        author: Gilles Deleuze
+
+      - title: Sober Living for the Revolution
+        author: edited by Gabriel Kuhn
+        star: yes
+
+      - title: Hegel Three Studies
+        author: Theodor Adorno
+
+      - title: Ethics
+        author: Spinoza
+
+      - title: The Savage Anomaly
+        author: Antonio Negri
+
+      - title: On the Genealogy of Morality
+        author: Nietzsche
+
+      - title: Forty Stories
+        author: Donald Barthelme
+        star: yes
+
+      - title: Foucault's Critical Project
+        author: Beatrice Han
+
+      - title: Fear and Trembling
+        author: Kiekegaard
+
+      - title: Hegel's Absolute
+        author: Donald Verene
+
+      - title: The Use of Pleasure
+        author: Michel Foucault
+
+      - title: Sixty Stories
+        author: Donald Barthelme
+        star: yes
+
+      - title: Heidegger and the Question of Time
+        author: Francoise Dastur
+
+      - title: Phenomenology of Spirit
+        author: Hegel
+
+      - title: Hegel and the Phenomenology of Spirit
+        author: Robert Stern
+
+      - title: The History of Sexuality, Volume 1
+        author: Michel Foucault
+
+      - title: Feminist Experiences
+        author: Johanna Oksala
+
+      - title: Discipline and Punish
+        author: Michel Foucault
+
+      - title: Not-Knowing
+        author: Donald Barthelme
+
+      - title: The Dead Father
+        author: Donald Barthelme
+        star: yes
+
+      - title: About the Beginning of the Hermeneutics of the Self
+        author: Michel Foucault
+
+      - title: The New Prophets of Capital
+        author: Nicole Aschoff
+
+      - title: May 68 and its Afterlives
+        author: Kristin Ross
+
+      - title: Pax Romana
+        author: Jonathan Hickman
+
+      - title: White Teeth
+        author: Zadie Smith
+        star: yes
+
+      - title: The Brothers Karamazov
+        author: Fyodor Dostoevsky
+        star: yes
+
+      - title: The Baseball Codes
+        author: Jason Turbow and Michael Duca
+
+      - title: The Epistemology of Resistance
+        author: Jose Medina
+
+      - title: Feminine Sexuality
+        author: Jacques Lacan, Juliet Mitchell, Jacquelyn Rose
+
+      - title: The Savage Detectives
+        author: Roberto Bolano
+        star: yes
+
+      - title: French for Reading
+        author: Karl Sandberg
+
+      - title: The Lacanian Subject
+        author: Bruce Fink
+        star: yes
+
+      - title: Being Given
+        author: Jean-Luc Marion
+        star: yes
+
+      - title: The Insufferable Gaucho
+        author: Roberto Bolano
+
+      - title: The Return
+        author: Roberto Bolano
+
+      - title: Black Feminist Thought
+        author: Patricia Hill Collins
+
+      - title: Last Evenings on Earth
+        author: Roberto Bolano
+
+      - title: The Experience of Freedom
+        author: Jean-Luc Nancy
+
+      - title: Antwerp
+        author: Roberto Bolano
+
+      - title: Amulet
+        author: Roberto Bolano
+        star: yes
+
+      - title: Material Phenomenology
+        author: Michel Henry
+
+      - title: Nazi Literature in the Americas
+        author: Roberto Bolano
+
+      - title: Parmenides
+        author: Martin Heidegger
+
+      - title: The Skating Rink
+        author: Robert Bolano
+
+      - title: Distant Star
+        author: Roberto Bolano
+
+      - title: Phenomenology and the Crisis of the European Sciences
+        author: Edmund Husserl
+
+      - title: That Winter the Wolf Came
+        author: Juliana Spahr
+        star: yes
+
+      - title: The God of Small Things
+        author: Arundhati Roy
+        star: yes
+
+      - title: Changing Difference
+        author: Catherine Malabou
+
+      - title: Lecture's on Kant's Political Philosophy
+        author: Hannah Arendt
+
+      - title: On Violence
+        author: Hannah Arendt
+
+      - title: Eichmann in Jerusalem
+        author: Hannah Arendt
+
+      - title: Red Epic
+        author: Joshua Clover
+
+      - title: Kingdom of this World
+        author: Alejo Carpentier
+
+      - title: Between Past and Future
+        author: Hannah Arendt
+
+      - title: Metaphysics
+        author: Theodor Adorno
+
+      - title: Octavia's Brood
+        author: edited by Walidah Imarisha and adrienne maree brown
+
+      - title: On Revolution
+        author: Hannah Arendt
+
+      - title: Masculinities
+        author: Cindy Crabb
+
+      - title: After Finitude
+        author: Quentin Meillassoux
+
+      - title: Post-Prison Writings and Speeches
+        author: Eldridge Cleaver
+
+      - title: Lectures on Negative Dialectics
+        author: Theodor Adorno
+
+      - title: Adorno
+        author: Brian O'Connor
+
+      - title: The Good Woman of Setzuan
+        author: Bertolt Brecht
+
+      - title: Structuralism
+        author: Jean Piaget
+
+      - title: Marxism and Literary Criticism
+        author: Terry Eagleton
+
+      - title: The Salt Eaters
+        author: Toni Cade Bambara
+
+      - title: The Human Condition
+        author: Hannah Arendt
+        star: yes
+
+      - title: The Subject of Freedom
+        author: Gabriela Basterra
+
+      - title: Red Dirt
+        author: Roxanne Dunbar
+
+      - title: Reduction and Givenness
+        author: Jean
+        star: yes
+
+      - title: $urplus
+        author: A. Kiarina Kordela
+
+      - title: Black Cool
+        author: Rebecca Walker
+
+      - title: Beloved
+        author: Toni Morrison
+        star: yes
+
+      - title: Prometheus Eternal
+        author: edited by Josh O'Neill and Christopher Atkins
+
+      - title: Architecture as Metaphor
+        author: Kojin Karatani
+
+      - title: Between the World and Me
+        author: Ta-Nahesis Coates
+        star: yes
+
+      - title: The Micro-Politics of Capital
+        author: Jason Reed
+
+      - title: Writing on the Wall
+        author: Mumia abu-Jamal
+
+      - title: Clandestine Occupations
+        author: Diana Block
+
+      - title: Voice and Phenomenon
+        author: Jacques Derrida
+        star: yes
+
+      - title: The Fishermen
+        author: Chigozie Obioma
+
+  - year: "2015"
+    books:
+      - title: White Teeth
+        author: Zadie Smith
+        star: yes
+
+      - title: Dialectic of Enlightenment
+        author: Theodor Adorno and Max Horkheimer
+
+      - title: The Principle of Reason
+        author: Martin Heidegger
+
+      - title: Nobody Passes
+        author: edited by Mattilda Bernstein Sycamore
+
+      - title: Adorno's Negative Dialectic
+        author: Brian O'Connor
+
+      - title: Groundless Grounds
+        author: Lee Braver
+
+      - title: Existentialism is a Humanism
+        author: Jean-Paul Sartre
+
+      - title: Waiting for Godot
+        author: Samuel Beckett
+
+      - title: Citi
+        author: RA Washington
+
+      - title: Walking with the Comrades
+        author: Arundhati Roy
+        star: yes
+
+      - title: Kant's Critique of Pure Reason
+        author: Theodor Adorno
+
+      - title: Philosophical Investigations
+        author: Ludwig Wittgenstein
+        star: yes
+
+      - title: On Certainty
+        author: Ludwig Wittgenstein
+        star: yes
+
+      - title: Capitalism A Ghost Story
+        author: Arundhati Roy
+
+      - title: Kant and the Problem of Metaphysics
+        author: Martin Heidegger
+
+      - title: Kant and Skepticism
+        author: Michael Forster
+
+      - title: Black Power
+        author: Stokely Carmichael
+
+      - title: Prairie Radical
+        author: Robert Pardun
+        star: yes
+
+      - title: Outlaws of America
+        author: Dan Berger
+
+      - title: Shoot the Women First
+        author: Eileen MacDonald
+
+      - title: Everybody Talks About the Weather ... We Don't
+        author: Ulrike Meinhof
+
+      - title: Sing a Battle Song
+        author: Women in the Weather Underground
+
+      - title: The Original Sceptics
+        author: Myles Burnyeat, Michael Frede, Jonathan Barnes
+
+      - title: The Big Money
+        author: John Dos Passos
+
+      - title: Outlines of Pyrrhonism
+        author: Sextus Empiricus, Julia Annas, Jonathan Barnes
+
+      - title: Baader/Meinhof
+        author: Astrid Proll
+
+      - title: We Are Nothing and So Can You
+        author: Jasper Bernes
+
+      - title: Kant's Critical Philosophy
+        author: Gilles Deleuze
+
+      - title: 1919
+        author: John Dos Passos
+
+      - title: Manifesto for Philosophy
+        author: Alain Badiou
+
+      - title: Freud as Philosopher
+        author: Richard Boothby
+        star: yes
+
+      - title: Mao II
+        author: Don DeLillo
+
+      - title: All That Is Solid Melts Into Air
+        author: Marshall Berman
+
+      - title: 2666
+        author: Roberto Bolano
+        star: yes
+
+      - title: Reduction and Givenness
+        author: Jean-Luc Marion
+        star: yes
+
+      - title: The 42nd Parallel
+        author: John Dos Passos
+        star: yes
+
+      - title: Between Kant and Hegel
+        author: Dieter Henrich
+        star: yes
+
+      - title: Sixty Stories
+        author: Donald Barthelme
+        star: yes
+
+      - title: The Fate of Reason
+        author: Frederick Beiser
+        star: yes
+
+      - title: White Noise
+        author: Don DeLillo
+
+      - title: Flies
+        author: Michael Dickman
+        star: yes
+
+      - title: The Monkey Grammarian
+        author: Octavio Paz
+
+      - title: bitchfest
+        author: edited by Lisa Jervis and Andi Zeisler
+
+      - title: Hawkeye Volume 2
+        author: Matt Fraction and David Aja
+
+      - title: German Philosophy 1760-1860
+        author: Terry Pinkard
+
+      - title: The Brief Wondrous Life of Oscar Wao
+        author: Junot Diaz
+        star: yes
+
+      - title: Sister Outsider
+        author: Audre Lorde
+        star: yes
+
+      - title: The Mandarins
+        author: Simone de Beauvoir
+        star: yes
+
+      - title: If Beale Street Could Talk
+        author: James Baldwin
+
+      - title: The Lowland
+        author: Jhumpa Lahiri
+        star: yes
+
+      - title: Giovanni's Room
+        author: James Baldwin
+
+      - title: The Future Lasts Forever
+        author: Louis Althusser
+
+      - title: Althusser and His Contemporaries
+        author: Warren Montag
+
+      - title: So Far
+        author: Mark Conway
+
+      - title: Queer Phenomenology
+        author: Sara Ahmed
+
+      - title: IBW and Education for Liberation
+        author: Vincent Harding and Lerone Bennett
+
+      - title: Woman on the Edge of Time
+        author: Marge Piercy
+
+      - title: Intimacies
+        author: Leo Bersani and Adam Phillips
+
+      - title: On the Road to Healing
+        author: Basil Shahid
+
+      - title: Tar Baby
+        author: Toni Morrison
+
+      - title: Kindred
+        author: Octavia Butler
+
+      - title: Sula
+        author: Toni Morrison
+
+      - title: The Bluest Eye
+        author: Toni Morrison
+
+      - title: For Marx
+        author: Louis Althusser
+
+      - title: Reading Capital
+        author: Louis Althusser
+
+      - title: The Black Revolution on Campus
+        author: Martha Biondi
+
+      - title: Wie man einen Dino besiegt
+        author: Hans Wilhelm
+
+      - title: Song of Solomon
+        author: Toni Morrison
+
+      - title: Beyond the Pleasure Principle
+        author: Sigmund Freud
+
+      - title: Firebrands
+        author: Justseeds Artists' Cooperative
+
+      - title: Beloved
+        author: Toni Morrison
+        star: yes
+
+      - title: Death and Desire
+        author: Richard Boothby
+        star: yes
+
+  - year: "2014"
+    books:
+      - title: Undoing Border Imperialism
+        author: Harsha Walia
+
+      - title: The Inconvenient Indian
+        author: Thomas King
+        star: yes
+
+      - title: Sweet Tooth, Book One
+        author: Jeff Lemire
+
+      - title: Looking Awry
+        author: Slavoj Zizek
+
+      - title: Jazz
+        author: Toni Morrison
+
+      - title: House Made of Dawn
+        author: N. Scott Momaday
+        star: yes
+
+      - title: Orlando
+        author: Virginia Woolf
+        star: yes
+
+      - title: Mygale
+        author: Thierry Jonquet
+
+      - title: Mrs. Dalloway
+        author: Virginia Woolf
+        star: yes
+
+      - title: Ceremony
+        author: Leslie Marmon Silko
+
+      - title: Debt The First 5,000 Years
+        author: David Graeber
+
+      - title: On Deep History and the Brain
+        author: Daniel Smail
+
+      - title: Skinny Legs and All
+        author: Tom Robbins
+
+      - title: Tropic of Orange
+        author: Karen Tei Yamashita
+        star: yes
+
+      - title: Imagined Communities
+        author: Benedict Anderson
+
+      - title: Antigone
+        author: Sophocles, Friedrich Holderlin, Bertolt Brecht, Judith Malina
+
+      - title: Sacco and Vanzetti
+        author: Harold Blumenfeld
+
+      - title: The End of San Francisco
+        author: Mattilda Bernstein Sycamore
+        star: yes
+
+      - title: To the Lighthouse
+        author: Virginia Woolf
+        star: yes
+
+      - title: Discipline & Punish
+        author: Michel Foucault
+
+      - title: A Heartbreaking Work of Staggering Genius
+        author: Dave Eggers
+        star: yes
+
+      - title: Science in Action
+        author: Bruno Latour
+
+      - title: The Gender of History
+        author: Bonnie Smith
+
+      - title: Foucault's Pendulum
+        author: Umberto Eco
+        star: yes
+
+      - title: The State and Revolution
+        author: V.I. Lenin
+
+      - title: Reading Capital
+        author: Louis Althusser
+
+      - title: Psychotic Reactions and Carburetor Dung
+        author: Lester Bangs
+        star: yes
+
+      - title: For Marx
+        author: Louiss Althusser
+
+      - title: Existentialism is a Humanism
+        author: Jean-Paul Sartre
+
+      - title: Weirdos from Another Planet
+        author: Bill Watterson
+
+      - title: The Eighteenth Brumaire of Louis Bonaparte
+        author: Karl Marx
+        star: yes
+
+      - title: My Antonia
+        author: Willa Cather
+        star: yes
+
+      - title: History and Class Consciousness
+        author: Georg Lukacs
+
+      - title: Love in the Time of Cholera
+        author: Gabriel Garcia Marquez
+
+      - title: A Universal History of Infamy
+        author: Jorge Luis Borges
+
+      - title: Something Under the Bed is Drooling
+        author: Bill Watterson
+
+      - title: Collected Novellas
+        author: Gabriel Garcia Marquez
+
+      - title: Marxism and Philosophy
+        author: Karl Korsch
+
+      - title: Collected Stories
+        author: Gabriel Garcia Marquez
+
+      - title: Labyrinths
+        author: Jorge Luis Borges
+
+      - title: Wittgenstein's Mistress
+        author: David Markson
+        star: yes
+
+      - title: Asterios Polyp
+        author: David Muzzcchelli
+
+      - title: I Shall Destroy All the Civilized Planets!
+        author: Fletcher Hanks
+
+      - title: Batman The Dark Knight Returns
+        author: Frank Miller
+
+      - title: Angela Davis An Autobiography
+        author: Angela Davis
+        star: yes
+
+      - title: Panther Baby
+        author: Jamal Joseph
+
+      - title: This Side of Glory
+        author: David Hilliard and Lewis Cole
+
+      - title: Michel Foucault
+        author: Hubert Dreyfus and Paul Rabinow
+
+      - title: Ficciones
+        author: Jorge Luis Borges
+
+      - title: Fire Alarm
+        author: Michael Lowy
+
+      - title: Will You Die with Me?
+        author: Flores Forbes
+
+      - title: Looking Backward
+        author: Edward Bellamy
+
+      - title: Problems of Moral Philosophy
+        author: Theodor Adorno
+
+      - title: Are Prisons Obsolete?
+        author: Angela Davis
+        star: yes
+
+      - title: Capitalist Realism
+        author: Mark Fisher
+
+      - title: Hermeneutics and the Human Sciences
+        author: Paul Ricoeur
+
+      - title: Foucault
+        author: Gilles Deleuze
+        star: yes
+
+      - title: Power/Knowledge
+        author: Michel Foucault
+
+      - title: Assata
+        author: Assata Shakur
+        star: yes
+
+      - title: Foucault, Politics, and Violence
+        author: Johanna Oksala
+
+      - title: The Comming Community
+        author: Giorgio Agamben
+
+      - title: Invisible Man
+        author: Ralph Ellison
+        star: yes
+
+      - title: Homo Sacer
+        author: Giorgio Agamben
+
+      - title: A Companion to Marx's Capital
+        author: David Harvey
+
+      - title: Capital, Volume 1
+        author: Karl Marx
+
+      - title: The Outsider
+        author: Richard Wright
+
+      - title: Don't Ask to Fight their Wars
+        author: Against Equality
+
+      - title: Indecision
+        author: Benjamin Kunkel
+
+      - title: Look for Me in the Whirlwind
+        author: New York Panther 21
+
+      - title: Being and Time
+        author: Martin Heidegger
+
+      - title: Society Must Be Defended
+        author: Michel Foucault
+
+      - title: A Taste of Power
+        author: Elaine Brown
+
+      - title: We Want Freedom
+        author: Mumia abu-Jamal
+
+      - title: The History of Sexuality, Volume 1
+        author: Michel Foucault
+
+      - title: Of Africa
+        author: Wole Soyinka
+
+      - title: War Against the Panthers
+        author: Huey Newton
+
+      - title: Seize the Time
+        author: Bobby Seale
+        star: yes
+
+      - title: Revolutionary Suicide
+        author: Huey Newton
+        star: yes
+
+      - title: Cartesian Meditations
+        author: Edmund Husserl
+
+      - title: From Marx to Mao Tse-Tung
+        author: George Thomson
+
+      - title: The Old, Weird America
+        author: Greil Marcus
+        star: yes
+
+      - title: Go Tell it on the Mountain
+        author: James Baldwin
+
+      - title: Pedagogy of the Oppressed
+        author: Paulo Freire
+
+      - title: The Adventures of Huckleberry Finn
+        author: Mark Twain
+
+      - title: Economic and Philosophic Manuscripts of 1844
+        author: Karl Marx
+
+      - title: The Adventures of Tom Sawyer
+        author: Mark Twain
+
+      - title: Love and Struggle
+        author: David Gilbert
+        star: yes
+
+      - title: Forty Stories
+        author: Donald Barthelme
+        star: yes
+
+  - year: "2013"
+    books:
+      - title: Mo Meta Blues
+        author: ?uestlove
+
+      - title: Celebrate People's History
+        author: edited by Josh MacPhee
+
+      - title: The Man Without Qualities
+        author: Robert Musil
+        star: yes
+
+      - title: The Origins of Postmodernity
+        author: Perry Anderson
+
+      - title: A Leftist Ontology
+        author: edited by Carsten Stratausen
+
+      - title: Teaching Rebellion
+        author: edited by Diana Denham and C.A.S.A. Collective
+
+      - title: Love Goes to Buildings on Fire
+        author: Will Herbes
+        star: yes
+
+      - title: The Aesthetic Dimension
+        author: Herbert Marcuse
+
+      - title: The Revolution and the Civil War in Spain
+        author: Pierre Broue and Emile Temime
+        star: yes
+
+      - title: How Colonialism Preempted Modernity in Africa
+        author: Olufemi Taiwo
+
+      - title: Homage to Catalonia
+        author: George Orwell
+        star: yes
+
+      - title: One-Dimensional Man
+        author: Herbert Marcuse
+
+      - title: Hamletmachine and Other Texts for the Stage
+        author: Heiner Muller
+        star: yes
+
+      - title: Republic
+        author: Plato
+
+      - title: Gravity's Rainbow
+        author: Thomas Pynchon
+
+      - title: When Africa Awakes
+        author: Hubert Henry Harrison
+
+      - title: Life of Galileo
+        author: Bertolt Brecht
+
+      - title: The Caucasian Chalk Circle
+        author: Bertolt Brecht
+
+      - title: To Joy My Freedom
+        author: Tera Hunter
+
+      - title: My Face is Black is True
+        author: Mary Frances Berry
+
+      - title: Arab-Islamic Philosophy A Contemporary Critique
+        author: Mohammed Abed al-Jabri
+
+      - title: The Resistible Rise of Arturo Ui
+        author: Bertolt Brecht
+
+      - title: Mother Courage and Her Children
+        author: Bertolt Brecht
+
+      - title: The Threepenny Opera
+        author: Bertolt Brecht
+        star: yes
+
+      - title: Responsibility for Justice
+        author: Iris Marion Young
+        star: yes
+
+      - title: The Presocratics
+        author: edited by Philip Wheelwright
+
+      - title: Group Psychology and the Analysis of the Ego
+        author: Sigmund Freud
+
+      - title: White Out
+        author: Michael Clune
+        star: yes
+
+      - title: Communist Manifesto
+        author: Marx and Engels
+
+      - title: The Lost Weekend
+        author: Charles Jackson
+
+      - title: The Value of Radical Theory
+        author: Wayne Price
+
+      - title: Moral Theory
+        author: Mark Timmons
+
+      - title: Abel Sanchez
+        author: Miguel de Unamuno
+
+      - title: The Philosophy of Marx
+        author: Etienne Balibar
+
+      - title: The Metamorhposis
+        author: Franz Kafka
+
+      - title: Marxism For and Against
+        author: Robert Heilbroner
+
+      - title: The Beast in the Jungle
+        author: Henry James
+
+      - title: The Revolutionary Ideas of Karl Marx
+        author: Alex Callinicos
+
+      - title: Heart of Darkness
+        author: Joseph Conrad
+
+      - title: Marat/Sade
+        author: Peter Weiss
+        star: yes
+
+      - title: The Death of Ivan Ilyich
+        author: Leo Tolstoy
+
+      - title: Origins of the Modern World
+        author: Robert Marks
+
+      - title: Notes from the Underground
+        author: Fyodor Dostoevsky
+
+      - title: Paradise
+        author: Donald Barthelme
+
+      - title: Snow White
+        author: Donald Barthelme
+
+      - title: The Dead Father
+        author: Donald Barthelme
+        star: yes
+
+      - title: Discourse on Inequality
+        author: Jean-Jacques Rousseau
+
+      - title: The Prince
+        author: Machiavelli
+
+      - title: Calvin & Hobbes
+        author: Bill Watterson
+
+      - title: The Chomsky-Foucault Debate
+        author: Noam Chomsky and Michel Foucault
+
+      - title: Abolition Now!
+        author: CR10 Collective
+
+      - title: The Brothers Karamazov
+        author: Fyodor Dostoevsky
+        star: yes
+
+      - title: Caligula and Three Other Plays
+        author: Albert Camus
+
+      - title: Beyond the Fields
+        author: Randy Shaw
+
+      - title: To Die for the People
+        author: Huey Newton
+        star: yes
+
+      - title: Soledad Brother
+        author: George Jackson
+        star: yes
+
+      - title: Monadology
+        author: Leibniz
+
+      - title: The Little Schemer
+        author: Daniel Friedman and Matthias Felleisen
+
+      - title: Rosencrantz & Guildenstern are Dead
+        author: Tom Stoppard
+        star: yes
+
+      - title: Eichmann in Jerusalem
+        author: Hannah Arendt
+
+      - title: Candide
+        author: Voltaire
+
+      - title: Blood in My Eye
+        author: George Jackson
+
+      - title: Their Morals and Ours
+        author: Leon Trotsky
+
+      - title: Brotherhoods of Color
+        author: Eric Arnesen
+
+      - title: The Dispossessed
+        author: Ursula LeGuin
+
+      - title: Evil in Modern Thought
+        author: Susan Neiman
+        star: yes
+
+      - title: Walt Disney
+        author: Neil Gabler
+
+      - title: The Mouse that Roared
+        author: Henry Giroux and Grace Pollock
+
+      - title: If They Come in the Morning
+        author: Angela Davis
+
+      - title: Lenin and Philosophy and Other Essays
+        author: Louis Althusser
+
+      - title: Mother Jones
+        author: Elliot Gorn
+
+      - title: America
+        author: Jean Baudrillard
+
+      - title: Meditations on First Philosophy
+        author: Rene Descartes
+
+      - title: Discourse on Method
+        author: Rene Descartes
+
+      - title: The Souls of Black Folk
+        author: W.E.B. DuBois
+        star: yes
+
+      - title: The Classroom and the Cell
+        author: Mumia abu-Jamal
+        star: yes
+
+      - title: Soul on Ice
+        author: Eldridge Cleaver
+
+      - title: Green is the New Red
+        author: Will Potter
+        star: yes
+
+      - title: Art & Revolution
+        author: John Berger
 

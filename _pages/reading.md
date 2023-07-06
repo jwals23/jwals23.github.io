@@ -2,18 +2,15 @@
 layout: page
 permalink: /reading/
 title: reading
-description: books I've read
 nav: true
 nav_order: 1
 ---
 
-Since 2013, I have kept a list each year of the books that I read. These are 
-archived here: [2023](/books/2023.html), [2022](/books/2022.html), [2021](/books/2021.html), 
-[2020](/books/2020.html), [2019](/books/2019.html), [2018](/books/2018.html), 
-[2017](/books/2017.html), [2016](/books/2016.html), [2015](/books/2015.html), 
+What follows is a list of the books I have read since 2013, when I first started
+keeping these lists. A star indicates a book that I think was very good, that I recommend, 
+or that has stuck with me over the years.
 
 <div class="container">
-  <div class="last-update">Last updated {{ site.data.reading.lastupdate }}</div>
   {% for entry in site.data.reading.list %}
   <div class="year-container">
     <div class="year">
@@ -25,9 +22,9 @@ archived here: [2023](/books/2023.html), [2022](/books/2022.html), [2021](/books
         {% for book in entry.books %}
         <li>
           {{ book.title }}
-          <span class="author">by {{ book.author }}</span
-          >{% if book.star %}<span class="star">★</span>{% endif %}
+          <span class="author">by {{ book.author }}</span>
 	  <span class="author">{% if book.year %}[{{ book.year}}]{% endif %}</span>
+	  {% if book.star %}<span class="star">★</span>{% endif %}
         </li>
         {% endfor %}
       </ul>
