@@ -1,0 +1,684 @@
+list:
+  - year: "2022"
+    albums:
+      - title: Waterslide, Diving Board, Ladder to the Sky
+        artist: Porridge Radio
+
+      - title: Love the Stranger
+        artist: Friendship
+
+      - title: Big Time
+        artist: Angel Olsen
+
+      - title: Cruel Country
+        artist: Wilco
+
+      - title: In These Times
+        artist: Makaya McCraven
+
+      - title: Dissolution Wave
+        artist: Cloakroom
+
+      - title: Everything Was Beautiful
+        artist: Spiritualized
+
+      - title: angel in realtime.
+        artist: Gang of Youths
+
+      - title: Heartmind
+        artist: Cass McCombs
+
+      - title: This is a Photograph
+        artist: Kevin Morby
+
+      - title: Chloe and the Next 20th Century
+        artist: Father John Misty
+
+      - title: I Walked With You a Ways
+        artist: Plains
+
+      - title: Peculiar, Missouri
+        artist: Willi Carlisle
+
+      - title: LABYRINTHITIS
+        artist: Destroyer
+
+      - title: Dragon New Warm Mountain I Believe In You
+        artist: Big Thief
+
+  - year: "2021"
+    albums:
+      - title: Urban Diftwood
+        artist: Yasmin Williams
+
+      - title: Long Time Coming
+        artist: Sierra Ferrell
+
+      - title: Antlers in Velvet
+        artist: Leon III
+
+      - title: Somewhere
+        artist: Sun June
+
+      - title: Home Video
+        artist: Lucy Dacus
+
+      - title: Leaving None but Small Birds
+        artist: The Body and BIG BRAVE
+
+      - title: Infinite Granite
+        artist: Deafheaven
+
+      - title: Seek Shelter
+        artist: Iceage
+
+      - title: For Those I Love
+        artist: For Those I Love
+
+      - title: I Don't Live Here Anymore
+        artist: The War on Drugs
+
+  - year: "2020 (unranked)"
+    albums:
+      - title: 2017-2019
+        artist: Against All Logic
+
+      - title: Jump Rope Glazers
+        artist: The Beths
+
+      - title: Serpentine Prison
+        artist: Matt Berninger
+
+      - title: Suddenly
+        artist: Caribou
+
+      - title: Making a Door Less Open
+        artist: Car Seat Headrest
+
+      - title: Speed Kills
+        artist: Chubby and the Gang
+
+      - title: Melee
+        artist: Dogleg
+
+      - title: Fetch the Bolt Cutters
+        artist: Fiona Apple
+
+      - title: Women in Music Pt III
+        artist: HAIM
+
+      - title: Sundowner
+        artist: Kevin Morby
+
+      - title: Every Bad
+        artist: Porridge Radio
+
+      - title: Lost in the Country
+        artist: Trace Mountains
+
+      - title: St Cloud
+        artist: Waxahatchee
+
+      - title: Thin Mind
+        artist: Wolf Parade
+
+  - year: "2010s (the decade)"
+    albums:
+      - title: american dream
+        artist: LCD Soundsystem
+
+      - title: Ordinary Corrupt Human Love
+        artist: Deafheaven
+
+      - title: Swing Lo Magellan
+        artist: Dirty Projectors
+
+      - title: Sunbathing Animal
+        artist: Parquet Courts
+
+      - title: Masterpiece
+        artist: Big Thief
+
+      - title: Rock 'n' Roll Impotence
+        artist: Quick Piss
+
+      - title: Sirens
+        artist: Nicolas Jaar
+
+      - title: Brutalism
+        artist: IDLES
+
+      - title: 22, A Million
+        artist: Bon Iver
+
+      - title: Silence Yourself
+        artist: Savages
+
+      - title: Modern Vampires of the City
+        artist: Vampires of the Weekend
+
+      - title: Attack on Memory
+        artist: Cloud Nothings
+
+      - title: Past Life Martyred Saints
+        artist: EMA
+
+      - title: Freedom
+        artist: Amen Dunes
+
+      - title: Sometimes I Sit and Think, Sometimes I Just Sit
+        artist: Courtney Barnet
+
+      - title: I Love You, Honeybear
+        artist: Father John Misty
+
+      - title: No, My Name Is JEFFERY
+        artist: Young Thug
+
+      - title: Blond(e)
+        artist: Frank Ocean
+
+      - title: DAMN.
+        artist: Kendrick Lamar
+
+      - title: Go Tell Fire to the Mountain
+        artist: WU LYF
+
+      - title: Summertime 06
+        artist: Vince Staples
+
+      - title: A Deeper Understanding
+        artist: The War on Drugs
+
+      - title: Teens of Denial
+        artist: Car Seat Headrest
+
+      - title: My Beautiful Dark Twisted Fantasy
+        artist: Kanye West
+
+      - title: The Monitor
+        artist: Titus Andronicus
+
+  - year: "2018"
+    albums:
+      - title: FM!
+        artist: Vince Staples
+
+      - title: Infinite Moment
+        artist: The Field
+
+      - title: Kiss Yr Frenemies
+        artist: Illuminati Hotties
+
+      - title: Wide Awake!
+        artist: Parquet Courts
+
+      - title: Singularity
+        artist: Jon Hopkins
+
+      - title: Last Building Burning
+        artist: Cloud Nothings
+
+      - title: Freedom's Goblin
+        artist: Ty Segall
+
+      - title: Ordinary Corrupt Human Love
+        artist: Deafheaven
+
+      - title: Bunny
+        artist: Matthew Dear
+
+      - title: Future Me Hates Me
+        artist: The Beths
+
+      - title: Lamp Lit Prose
+        artist: Dirty Projectors
+
+      - title: Daytona
+        artist: Pusha T
+
+      - title: Historian
+        artist: Lucy Dacus
+
+      - title: 7
+        artist: Beach House
+
+      - title: The Official Body
+        artist: Shopping
+
+      - title: 2012-2017
+        artist: Against All Logic
+
+      - title: Tell Me How You Really Feel
+        artist: Courtney Barnett
+
+      - title: Joy as an Act of Resistance
+        artist: IDLES
+
+      - title: Twin Fantasy
+        artist: Car Seat Headrest
+
+      - title: Freedom
+        artist: Amen Dunes
+
+  - year: "2017"
+    albums:
+      - title: Antisocialites
+        artist: Alvvays
+
+      - title: Dirty Projectors
+        artist: Dirty Projectors
+
+      - title: Reflections of Floating World
+        artist: Elder
+
+      - title: Plunge
+        artist: Fever Ray
+
+      - title: You're Not as ____ as You Think You Are
+        artist: Sorority Noise
+
+      - title: Pure Comedy
+        artist: Father John Misty
+
+      - title: Brutalism
+        artist: IDLES
+
+      - title: Ty Segall
+        artist: Ty Segall
+
+      - title: RTJ3
+        artist: Run the Jewels
+
+      - title: american dream
+        artist: LCD Soundsystem
+
+      - title: Beautiful Thugger Girls
+        artist: Young Thug
+
+      - title: ken
+        artist: Destroyer
+
+      - title: Tourist in This Town
+        artist: Allison Crutchfield
+
+      - title: World Eater
+        artist: Blanck Mass
+
+      - title: Infinite Worlds
+        artist: Vagabon
+
+      - title: Nothing Feels Natural
+        artist: Priests
+
+      - title: Exile in the Outer Ring
+        artist: EMA
+
+      - title: Big Fish Theory
+        artist: Vince Staples
+
+      - title: DAMN.
+        artist: Kendrick Lamar
+
+      - title: A Deeper Understanding
+        artist: The War on Drugs
+
+  - year: "2016"
+    albums:
+      - title: Adore Life
+        artist: Savages
+
+      - title: Human Performance
+        artist: Parquet Courts
+
+      - title: Good Luck and Do Your Best
+        artist: Gold Panda
+
+      - title: Still Brazy
+        artist: YG
+
+      - title: MY WOMAN
+        artist: Angel Olsen
+
+      - title: Love Songs Part Two
+        artist: Romare
+
+      - title: The Life of Pablo
+        artist: Kanye West
+
+      - title: Is The Is Are
+        artist: DIIV
+
+      - title: Atrocity Exhibition
+        artist: Danny Brown
+
+      - title: Singing Saw
+        artist: Kevin Morby
+
+      - title: The Dream Is Over
+        artist: PUP
+
+      - title: The Colour in Anything
+        artist: James Blake
+
+      - title: Coloring Book
+        artist: Chance the Rapper
+
+      - title: Sirens
+        artist: Nicolas Jaar
+
+      - title: Spiritual Songs for Lovers to Sing
+        artist: LUH
+
+      - title: 22, A Million
+        artist: Bon Iver
+
+      - title: No, My Name is JEFFERY
+        artist: Young Thug
+
+      - title: Rock 'n' Roll Impotence
+        artist: Quick Piss
+
+      - title: Blond(e)
+        artist: Frank Ocean
+
+      - title: Teens of Denial
+        artist: Car Seat Headrest
+
+  - year: "2015"
+    albums:
+      - title: Before the World Was Big
+        artist: Girlpool
+
+      - title: Full Communism
+        artist: Downtown Boys
+
+      - title: Alter/These Thoughts are Like Mandatory Chores
+        artist: Yung
+
+      - title: Ivy Tripp
+        artist: Waxahatchee
+
+      - title: Surf
+        artist: Donnie Trumpet & the Social Experiment
+
+      - title: If You're Reading This It's Too Late
+        artist: Drake
+
+      - title: New Bermuda
+        artist: Deafheaven
+
+      - title: In Colour
+        artist: Jamie xx
+
+      - title: Barter 6
+        artist: Young Thug
+
+      - title: Sometimes I Sit and Think, Sometimes I Just Sit
+        artist: Courtney Barnett
+
+      - title: Art Angels
+        artist: Grimes
+
+      - title: Summertime 06
+        artist: Vince Staples
+
+      - title: I Love You, Honeybear
+        artist: Father John Misty
+
+      - title: The Most Lamentable Tragedy
+        artist: Titus Andronicus
+
+      - title: To Pimp a Butterfly
+        artist: Kendrick Lamar
+
+  - year: "2014"
+    albums:
+      - title: Metamodern Sounds in Country Music
+        artist: Sturgill Simpson
+
+      - title: Disgraceland
+        artist: The Orwells
+
+      - title: Rich Gang The Tour, Part 1
+        artist: Young Thug & Rich Homie Quan
+
+      - title: Our Love
+        artist: Caribou
+
+      - title: St. Vince
+        artist: St. Vincent
+
+      - title: Run the Jewels 2
+        artist: Run the Jewels
+
+      - title: Burn Your Fire for No Witness
+        artist: Angel Olsen
+
+      - title: Sunbathing Animal
+        artist: Parquet Courts
+
+      - title: LP1
+        artist: fka Twigs
+
+      - title: Lost in the Dream
+        artist: The War on Drugs
+
+  - year: "2013"
+    albums:
+      - title: Yeezus
+        artist: Kanye West
+
+      - title: Anxiety
+        artist: Autre Ne Veut
+
+      - title: Blowout
+        artist: The So So Glos
+
+      - title: New Moon
+        artist: The Men
+
+      - title: My Name Is My Name
+        artist: Pusha T
+
+      - title: Wondrous Bughouse
+        artist: Youth Lagoon
+
+      - title: Cupid Delux
+        artist: Blood Orange
+
+      - title: Floating Coffin
+        artist: Thee Oh Sees
+
+      - title: Monomania
+        artist: Deerhunter
+
+      - title: Nothing Was the Same
+        artist: Drake
+
+      - title: How Far Away
+        artist: Alex Bleeker & the Freaks
+
+      - title: Run the Jewels
+        artist: Run the Jewels
+
+      - title: Cyclops Reap
+        artist: White Fence
+
+      - title: Modern Vampires of the City
+        artist: Vampire Weekend
+
+      - title: Days are Gone
+        artist: HAIM
+
+      - title: Acid Rap
+        artist: Chance the Rapper
+
+      - title: MCII
+        artist: Mikal Cronin
+
+      - title: Wakin on a Pretty Daze
+        artist: Kurt Vile
+
+      - title: I'm Rich Beyond Your Wildest Dreams
+        artist: Diarrhea Planet
+
+      - title: FIDLAR
+        artist: FIDLAR
+
+  - year: "2012"
+    albums:
+      - title: Coexist
+        artist: The xx
+
+      - title: Shrines
+        artist: Purity Ring
+
+      - title: Vol. 1
+        artist: Young Man
+
+      - title: Death Dreams
+        artist: PS I Love You
+
+      - title: Celebration Rock
+        artist: Japandroids
+
+      - title: Open Your Heart
+        artist: The Men
+
+      - title: Local Business
+        artist: Titus Andronicus
+
+      - title: Give You the Ghost
+        artist: POLICA
+
+      - title: Django Django
+        artist: Django Django
+
+      - title: Break it Yourself / Hands of Glory
+        artist: Andrew Bird
+
+      - title: Put Your Back N 2 It
+        artist: Perfume Genius
+
+      - title: Sweet Heart Sweet Light
+        artist: Spiritualized
+
+      - title: Channel Orange
+        artist: Frank Ocean
+
+      - title: good kid, m.A.A.d city
+        artist: Kendrick Lamar
+
+      - title: Bloom
+        artist: Beach House
+
+      - title: Slaughterhouse
+        artist: Ty Segall
+
+      - title: The Idler Wheel...
+        artist: Fiona Apple
+
+      - title: Swing Lo Magellan
+        artist: Dirty Projectors
+
+      - title: Attack on Memory
+        artist: Cloud Nothings
+
+      - title: Dreams Say, View, Create, Shadow Leads
+        artist: Dustin Wong
+
+  - year: "2011"
+    albums:
+      - title: Organ Music
+        artist: Moonface
+
+      - title: Songs About Girls
+        artist: Lesbian Poetry
+
+      - title: When Saints Go Machine
+        artist: Konkylie
+
+      - title: House of Balloons
+        artist: The Weeknd
+
+      - title: We're New Here
+        artist: Gil Scott-Heron & Jamie xx
+
+      - title: Smoke Ring for My Halo
+        artist: Kurt Vile
+
+      - title: Live.Love.A$AP
+        artist: A$AP Rocky
+
+      - title: Stranger Ballet
+        artist: The Poison Control Center
+
+      - title: Return of 4eva
+        artist: Big K.R.I.T.
+
+      - title: Sound Kapital
+        artist: Handomse Furs
+
+      - title: Space Is Only Noise
+        artist: Nicolas Jaar
+
+      - title: Departing
+        artist: The Rural Alberta Advantage
+
+      - title: w h o k i l l
+        artist: tUnE-yArDs
+
+      - title: Take Care
+        artist: Drake
+
+      - title: Black Up
+        artist: Shabazz Palaces
+
+      - title: Bon Iver, Bon Iver
+        artist: Bon Iver
+
+      - title: James Blake
+        artist: James Blake
+
+      - title: Go Tell Fire to the Mountain
+        artist: WU LYF
+
+      - title: Last of the Country Gentlemen
+        artist: Josh T. Pearson
+
+      - title: Past Life Martyred Saints
+        artist: EMA
+
+  - year: "2010"
+    albums:
+      - title: Hippies
+        artist: Harlem
+
+      - title: Lucky Shiner
+        artist: Gold Panda
+
+      - title: Body Talk
+        artist: Robyn
+
+      - title: Teen Dream
+        artist: Beach House
+
+      - title: Forget
+        artist: Twin Shadow
+
+      - title: My Beautiful Dark Twisted Fantasy
+        artist: Kanye West
+
+      - title: The Monitor
+        artist: Titus Andronicus
+
+      - title: The Age of Adz
+        artist: Sufjan Stevens
+
+      - title: Christiania
+        artist: Napoleon IIIrd
+
+      - title: There is a Mountain
+        artist: Common Prayer
+
