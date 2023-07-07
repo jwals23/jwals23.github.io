@@ -1,7 +1,10 @@
-lastupdate: July 5, 2023
 list:
   - year: "2023"
     books:
+      - title: The Birdcatcher
+        author: Gayl Jones
+        year: 2022
+
       - title: The Town of Babylon
         author: Alejandro Varela
         year: 2022
