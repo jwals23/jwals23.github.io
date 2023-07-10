@@ -96,155 +96,204 @@ list:
     books:
       - title: A Registry of My Passage upon the Earth
         author: Daniel Mason
+        year: 2022
 
       - title: The Miracle of Mindfulness
         author: Thich Nhat Hanh
+        year: 1999
 
       - title: Seeking the Heart of Wisdom
         author: Joseph Goldstein and Jack Kornfield
         star: yes
+        year: 2001
 
       - title: The Confession of a Child of the Century
         author: Thomas Rogers
         star: yes
+        year: 1972
 
       - title: The Divine Comedy
         author: Dante
+        year: 1321
 
       - title: The End of the Third Age
         author: J.R.R. Tolkien
+        year: 1955
 
       - title: The War of the Ring
         author: J.R.R. Tolkien
+        year: 1955
 
       - title: The Ring Goes East
         author: J.R.R. Tolkien
+        year: 1954
 
       - title: The Treason of Isengard
         author: J.R.R. Tolkien
+        year: 1954
 
       - title: The Ring Goes South
         author: J.R.R. Tolkien
+        year: 1954
 
       - title: The Amber Spyglass
         author: Philip Pullman
+        year: 2000
 
       - title: The Subtle Knife
         author: Philip Pullman
+        year: 1997
 
       - title: The Golden Compass
         author: Philip Pullman
+        year: 1995
 
       - title: Monkey Boy
         author: Francisco Goldberg
+        year: 2021
 
       - title: Moving Kings
         author: Joshua Cohen
+        year: 2017
 
       - title: Marxist History Writing for the Twenty-First Century
         author: Chris Wickham
+        year: 2007
 
       - title: The Netanyahus
         author: Joshua Cohen
+        year: 2021
         star: yes
 
       - title: Telephone
         author: Percival Everett
+        year: 2020
 
       - title: Kafka on the Shore
         author: Haruki Murakami
+        year: 2005
 
       - title: A Brief History of Commercial Capitalism
         author: Jairus Banaji
+        year: 2020
 
       - title: The Aeneid
         author: Virgil
+        year: 19 BCE
 
       - title: 1Q84
         author: Haruki Murakami
+        year: 2011
         star: yes
 
       - title: The Embodied Mind
         author: Varela, Thompson, Rosch
+        year: 1991
 
       - title: Matrix
         author: Lauren Groff
+        year: 2021
         star: yes
 
       - title: Harlem Shuffle
         author: Colson Whitehead
+        year: 2021
 
       - title: In the Wake of the Plague
         author: Norman Cantor
+        year: 2001
 
       - title: Cloud Cuckoo Land
         author: Anthony Doerr
+        year: 2021
         star: yes
 
       - title: How to Kidnap the Rich
         author: Rahul Raina
+        year: 2021
         star: yes
 
       - title: The Women of Troy
         author: Pat Barker
+        year: 2021
 
       - title: SPQR
         author: Mary Beard
+        year: 2015
         star: yes
 
       - title: Palmares
         author: Gayl Jones
+        year: 2021
 
       - title: Bang the Drum Slowly
         author: Mark Harris
+        year: 1956
 
       - title: The Georgics
         author: Virgil
+        year: 29 BCE
         star: yes
 
       - title: The Ball is Round
         author: David Goldblatt
+        year: 2008
 
       - title: The Odyssey
         author: Homer
+        year: c. 8th century BCE
 
       - title: Time is the Thing a Body Moves Through
-        author: T Fleischmann
+        author: T. Fleischmann
+        year: 2019
 
       - title: Soccer in Sun and Shadow
         author: Eduardo Galeano
+        year: 1995
         star: yes
 
-      - title: From Manual WOrkers to Wage Laborers
+      - title: From Manual Workers to Wage Laborers
         author: Robert Castel
+        year: 2003
 
       - title: The Man Without Qualities
         author: Robert Musil
+        year: 1943
         star: yes
 
       - title: The World Turned Upside Down
         author: Christopher Hill
+        year: 1972
 
       - title: The Illiad
         author: Homer
+        year: c. 8th century BCE
 
       - title: Alienation
         author: Bertell Ollman
+        year: 1976
 
       - title: Wittgenstein's Vienna
         author: Allan Janik and Stephen Toulmin
+        year: 1973
 
       - title: Marx's Theory of Alienation
         author: Istvan Meszaros
+        year: 1972
 
       - title: Accounting for Capitalism
         author: Michael Zakim
+        year: 2018
+        star: yes
 
       - title: Adorno and Existence
         author: Peter Gordon
+        year: 2016
 
       - title: Soccer Empire
         author: Laurent Dubois
+        year: 2010
+
   - year: "2021"
     books:
       - title: Zonal Marking
