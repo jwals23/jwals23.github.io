@@ -22,8 +22,7 @@ or that has stuck with me over the years.
         {% for book in entry.books %}
         <li>
           {{ book.title }}
-          <span class="author">by {{ book.author }}</span>
-	  <span class="author">{% if book.year %}[{{ book.year}}]{% endif %}</span>
+          <span class="author">by {{ book.author }}{% if book.year %} [{{ book.year }}]{% endif %}</span>
 	  {% if book.star %}<span class="star">★</span>{% endif %}
         </li>
         {% endfor %}
