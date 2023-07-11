@@ -1,6 +1,11 @@
 list:
   - year: "2023"
     books:
+      - title: The Haunting of Hajji Hotak and Other Stories
+        author: Jamil Jan Kochai
+        year: 2022
+        star: yes
+
       - title: The Birdcatcher
         author: Gayl Jones
         year: 2022
