@@ -1,6 +1,10 @@
 list:
   - year: "2023"
     books:
+      - title: Zorrie
+        author: Laird Hunt
+        year: 2022
+
       - title: The Haunting of Hajji Hotak and Other Stories
         author: Jamil Jan Kochai
         year: 2022
