@@ -1,6 +1,10 @@
 list:
   - year: "2023"
     books:
+      - title: Trust
+        author: Hernan Diaz
+        year: 2022
+
       - title: Zorrie
         author: Laird Hunt
         year: 2021
