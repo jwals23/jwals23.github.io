@@ -1,6 +1,11 @@
 list:
   - year: "2023"
     books:
+      - title: The Chaos Machine
+        author: Max Fisher
+        year: 2022
+        star: yes
+
       - title: Trust
         author: Hernan Diaz
         year: 2022
