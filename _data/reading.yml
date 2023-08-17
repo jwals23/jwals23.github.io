@@ -1,6 +1,16 @@
 list:
   - year: "2023"
     books:
+      - title: The Story of a New Name
+        author: Elena Ferrante
+        year: 2012
+        star: yes
+
+      - title: My Brilliant Friend
+        author: Elena Ferrante
+        year: 2011
+        star: yes
+
       - title: The Chaos Machine
         author: Max Fisher
         year: 2022
