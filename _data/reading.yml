@@ -1,6 +1,20 @@
 list:
   - year: "2023"
     books:
+      - title: Opening the Hand of Thought
+        author: Kosho Uchiyama
+        year: 2004
+    
+      - title: The Story of the Lost Child
+        author: Elena Ferrante
+        year: 2015
+        star: yes
+      
+      - title: Those Who Leave and Those Who Stay
+        author: Elena Ferrante
+        year: 2014
+        star: yes
+        
       - title: The Story of a New Name
         author: Elena Ferrante
         year: 2012
