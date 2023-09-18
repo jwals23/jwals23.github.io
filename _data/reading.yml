@@ -1,6 +1,10 @@
 list:
   - year: "2023"
     books:
+      - title: Why I Am Not a Buddhist
+        author: Evan Thompson
+        year: 2020
+        
       - title: Opening the Hand of Thought
         author: Kosho Uchiyama
         year: 2004
