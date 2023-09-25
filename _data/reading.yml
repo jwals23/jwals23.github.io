@@ -1,6 +1,10 @@
 list:
   - year: "2023"
     books:
+      - title: Foucault's Pendulum
+        author: Umberto Eco
+        year: 1989
+        
       - title: Why I Am Not a Buddhist
         author: Evan Thompson
         year: 2020
