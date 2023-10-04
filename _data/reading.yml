@@ -1,6 +1,11 @@
 list:
   - year: "2023"
     books:
+      - title: Dead Souls
+        author: Nikolai Gogol
+        year: 1842
+        star: yes
+        
       - title: Foucault's Pendulum
         author: Umberto Eco
         year: 1989
