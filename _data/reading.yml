@@ -1,6 +1,11 @@
 list:
   - year: "2023"
     books:
+      - title: A Confederacy of Dunces
+        author: John Kennedy Toole
+        year: 1980
+        star: yes
+        
       - title: Dead Souls
         author: Nikolai Gogol
         year: 1842
