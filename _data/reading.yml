@@ -1,6 +1,10 @@
 list:
   - year: "2023"
     books:
+      - title: The Caliph and the Imam
+        author: Toby Matthiesen
+        year: 2023
+        
       - title: A Confederacy of Dunces
         author: John Kennedy Toole
         year: 1980
