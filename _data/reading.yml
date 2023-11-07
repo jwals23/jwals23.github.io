@@ -1,6 +1,10 @@
 list:
   - year: "2023"
     books:
+      - title: A History of Modern Iran
+        author: Ervand Abrahamian
+        year: 2008
+        
       - title: The Caliph and the Imam
         author: Toby Matthiesen
         year: 2023
