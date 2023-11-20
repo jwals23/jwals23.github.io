@@ -1,6 +1,10 @@
 list:
   - year: "2023"
     books:
+      - title: The NPR Curious Listener's Guide to Jazz
+        author: Loren Schoenberg
+        year: 2002
+        
       - title: Cold War in the Islamic World
         author: Dilip Hiro
         year: 2018
