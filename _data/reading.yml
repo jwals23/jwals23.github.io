@@ -1,6 +1,11 @@
 list:
   - year: "2023"
     books:
+      - title: Cold War in the Islamic World
+        author: Dilip Hiro
+        year: 2018
+        star: yes
+        
       - title: A Natural History of Human Thinking
         author: Michael Tomasello
         year: 2014
