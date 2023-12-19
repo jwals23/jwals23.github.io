@@ -1,6 +1,11 @@
 list:
   - year: "2023"
     books:
+      - title: The History of Jazz
+        author: Ted Gioia
+        year: 2011
+        star: yes
+        
       - title: The NPR Curious Listener's Guide to Jazz
         author: Loren Schoenberg
         year: 2002
