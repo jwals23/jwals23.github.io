@@ -1,6 +1,16 @@
 list:
   - year: "2023"
     books:
+      - title: The Guardian Football Weekly Book
+        author: edited by Jonathan Wilson
+        year: 2023
+        star: yes
+        
+      - title: The Number Ones
+        author: Tom Breihan
+        year: 2022
+        star: yes
+        
       - title: The History of Jazz
         author: Ted Gioia
         year: 2011
