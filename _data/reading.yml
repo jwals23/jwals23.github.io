@@ -1,6 +1,15 @@
 list:
   - year: "2024"
     books:
+      - title: The Many-Headed Hydra
+        author: Pete Linebaugh and Marcus Rediker
+        year: 200
+      
+      - title: The Grapes of Wrath
+        author: John Steinbeck
+        year: 1939
+        star: yes
+        
       - title: The Canterbury Tales
         author: Geoffrey Chaucer
         year: 1400
@@ -8,7 +17,7 @@ list:
   - year: "2023"
     books:
       - title: The Guardian Football Weekly Book
-        author: edited by Jonathan Wilson
+        author: Jonathan Wilson (editor)
         year: 2023
         star: yes
         
