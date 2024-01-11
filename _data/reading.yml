@@ -1,8 +1,12 @@
 list:
   - year: "2024"
     books:
+      - title: Metazoa
+        author: Peter Godfrey-Smith
+        year: 2020
+        
       - title: The Many-Headed Hydra
-        author: Pete Linebaugh and Marcus Rediker
+        author: Peter Linebaugh and Marcus Rediker
         year: 2000
       
       - title: The Grapes of Wrath
