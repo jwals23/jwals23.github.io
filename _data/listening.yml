@@ -1,4 +1,50 @@
 list:
+  - year: "2023"
+    albums:
+      - title: Time Ain't Accidental
+        artist: Jess Williamson
+
+      - title: I've Got Me
+        artist: Joanna Sternberg
+
+      - title: The Holey Bible
+        artist: Florry
+
+      - title: The Pictures
+        artist: Dave Harrington
+
+      - title: the record
+        artist: boygenius
+
+      - title: Anarchist Gospel
+        artist: Sunny War
+
+      - title: Fawn / Brute
+        artist: Katie Gately
+
+      - title: Games of Power
+        artist: Home Front
+
+      - title: Valley of Heart's Delight
+        artist: Margo Cilker
+
+      - title: Painting of My Time
+        artist: Floodlights
+
+      - title: 3D Country
+        artist: Geese
+
+      - title: Lucky For You
+        artist: Bully
+
+      - title: Radical Romantics
+        artist: Fever Ray
+
+      - title: Dead Meat
+        artist: The Tubs
+
+      - title: The Window
+        artist: Ratboys
   - year: "2022"
     albums:
       - title: Waterslide, Diving Board, Ladder to the Sky
