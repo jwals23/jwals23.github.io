@@ -1,6 +1,11 @@
 list:
   - year: "2024"
     books:
+      - title: The City and the City
+        author: China Mieville
+        year: 2009
+        star: yes
+        
       - title: Metazoa
         author: Peter Godfrey-Smith
         year: 2020
