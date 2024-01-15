@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Adorno, Habermas, and the Search for a Rational Society
+        author: Deborah Cook
+        year: 2004
+    
       - title: The City and the City
         author: China Mieville
         year: 2009
