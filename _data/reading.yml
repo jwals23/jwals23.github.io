@@ -1,6 +1,11 @@
 list:
   - year: "2024"
     books:
+      - title: If I Survive You
+        author: Jonathan Escoffery
+        year: 2022
+        star: yes
+        
       - title: Adorno, Habermas, and the Search for a Rational Society
         author: Deborah Cook
         year: 2004
