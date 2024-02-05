@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: The Four Winds
+        author: Kristin Hannah
+        year: 2021
+
       - title: Six Records of a Floating Life
         author: Shen Fun
         year: 1877
