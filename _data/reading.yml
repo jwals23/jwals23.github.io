@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: The Outsiders
+        author: S.E. Hinton
+        year: 1967
+      
       - title: The Four Winds
         author: Kristin Hannah
         year: 2021
