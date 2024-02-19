@@ -1,6 +1,11 @@
 list:
   - year: "2024"
     books:
+      - title: A Defense of Judgment
+        author: Michael Clune
+        year: 2021
+        star: yes
+      
       - title: The Netanyahus
         author: Joshua Cohen
         year: 2021
