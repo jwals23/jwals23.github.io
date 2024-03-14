@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Art and Culture
+        author: Clement Greenberg
+        year: 1961
+    
       - title: A Defense of Judgment
         author: Michael Clune
         year: 2021
