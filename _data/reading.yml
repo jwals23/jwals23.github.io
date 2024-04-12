@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Love in the Ruins
+        author: Walker Percy
+        year: 1971
+    
       - title: More Noble than War
         author: Nicholas Blincoe
         year: 2019
