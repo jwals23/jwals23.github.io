@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Issue no. 73
+        author: The Baffler
+        year: 2024
+        
       - title: Love in the Ruins
         author: Walker Percy
         year: 1971
