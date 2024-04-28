@@ -1,6 +1,11 @@
 list:
   - year: "2024"
     books:
+      - title: Lancelot
+        author: Walker Percy
+        year: 1977
+        star: yes
+        
       - title: Issue no. 73
         author: The Baffler
         year: 2024
