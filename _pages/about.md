@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>Located in Atlanta, GA, US</p>
