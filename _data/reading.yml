@@ -1,6 +1,11 @@
 list:
   - year: "2024"
     books:
+      - title: Dr. No
+        author: Percival Everett
+        year: 2022
+        star: yes
+        
       - title: Lancelot
         author: Walker Percy
         year: 1977
