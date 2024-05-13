@@ -1,6 +1,11 @@
 list:
   - year: "2024"
     books:
+      - title: The Golden Ass
+        author: Apuleius (translated by Sarah Ruden)
+        year: Late 2nd Century AD (translation 2011)
+        star: yes
+        
       - title: Dr. No
         author: Percival Everett
         year: 2022
