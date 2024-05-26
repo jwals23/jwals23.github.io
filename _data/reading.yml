@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Absorption and Theatricality
+        author: Michael Fried
+        year: 1980
+    
       - title: The Golden Ass
         author: Apuleius (translated by Sarah Ruden)
         year: Late 2nd Century AD (translation 2011)
