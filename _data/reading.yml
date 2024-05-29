@@ -1,6 +1,15 @@
 list:
   - year: "2024"
     books:
+      - title: The Persians
+        author: Aeschylus (translated by James Romm)
+        year: translation 2016
+        
+      - title: The Wake
+        author: Paul Kingsnorth
+        year: 2014
+        star: yes
+    
       - title: Absorption and Theatricality
         author: Michael Fried
         year: 1980
