@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Issue no. 74
+        author: The Baffler
+        year: 2024
+        
       - title: The Persians
         author: Aeschylus (translated by James Romm)
         year: translation 2016
