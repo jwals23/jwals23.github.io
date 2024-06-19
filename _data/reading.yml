@@ -1,6 +1,15 @@
 list:
   - year: "2024"
     books:
+      - title: The Thanatos Syndrome
+        author: Walker Percy
+        year: 1987
+    
+      - title: There's Always This Year
+        author: Hanif Abdurraqib
+        year: 2024
+        star: yes
+    
       - title: Issue no. 74
         author: The Baffler
         year: 2024
