@@ -1,6 +1,14 @@
 list:
   - year: "2024"
     books:
+      - title: How to Listen to Jazz
+        author: Ted Gioia
+        year: 2016
+
+      - title: Oresteia\: Libations Bearers
+        author: Aeschylus (translated by Sarah Ruden)
+        year: translation 2016
+    
       - title: What Tech Calls Thinking
         author: Adrian Daub
         year: 2020
@@ -10,7 +18,7 @@ list:
         year: 2020
         star: yes
         
-      - title: Oresteia - Agamemnon
+      - title: Oresteia\: Agamemnon
         author: Aeschylus (translated by Sarah Ruden)
         year: translation 2016
         
