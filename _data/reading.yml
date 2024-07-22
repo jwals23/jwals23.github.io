@@ -1,6 +1,11 @@
 list:
   - year: "2024"
     books:
+      - title: The Birth of Bebop
+        author: Scott DeVeaux
+        year: 1997
+        star: yes
+    
       - title: How to Listen to Jazz
         author: Ted Gioia
         year: 2016
