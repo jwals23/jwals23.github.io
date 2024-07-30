@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Same Bed Different Dreams
+        author: Ed Park
+        year: 2023
+    
       - title: Oresteia - Eumenides
         author: Aeschylus (translated by Sarah Ruden)
         year: translation 2016
