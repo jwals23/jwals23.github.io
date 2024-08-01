@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Prometheus Bound
+        author: Aeschylus (possibly) (translated by James Romm)
+        year: translation 2016
+    
       - title: Same Bed Different Dreams
         author: Ed Park
         year: 2023
