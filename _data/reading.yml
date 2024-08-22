@@ -1,6 +1,15 @@
 list:
   - year: "2024"
     books:
+      - title: From Counterculture to Cyberculture
+        author: Fred Turner
+        year: 2006
+        star: yes
+    
+      - title: Antigone
+        author: Sophocles (translated by Frank Nisetich)
+        year: translation 2016
+    
       - title: Revolutionary Iran
         author: Michael Axworthy
         year: 2013
