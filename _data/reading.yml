@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Issue no. 75
+        author: The Baffler
+        year: 2024
+  
       - title: From Counterculture to Cyberculture
         author: Fred Turner
         year: 2006
