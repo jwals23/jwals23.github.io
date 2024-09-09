@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Electra
+        author: Sophocles (translated by Mary Lefkowitz)
+        year: translation 2016
+    
       - title: Night Watch
         author: Jayne Anne Phillips
         year: 2023
