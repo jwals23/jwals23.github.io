@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Alcestis
+        author: Euripides (translated by Rachel Kitzinger)
+        year: translation 2016
+    
       - title: Oedipus at Colonus
         author: Sophocles (translated by Frank Nisetich)
         year: translation 2016
