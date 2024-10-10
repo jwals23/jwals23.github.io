@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Postwar
+        author: Tony Judt
+        year: 2005
+    
       - title: Alcestis
         author: Euripides (translated by Rachel Kitzinger)
         year: translation 2016
