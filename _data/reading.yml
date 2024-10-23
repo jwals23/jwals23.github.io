@@ -1,6 +1,15 @@
 list:
   - year: "2024"
     books:
+      - title: The Joke
+        author: Milan Kundera
+        year: 1967 (1992)
+        star: yes
+        
+      - title: Medea
+        author: Euripides (translated by Rachel Kitzinger)
+        year: translation 2016
+    
       - title: Postwar
         author: Tony Judt
         year: 2005
