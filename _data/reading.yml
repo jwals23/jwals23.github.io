@@ -1,6 +1,14 @@
 list:
   - year: "2024"
     books:
+      - title: A Visit from the Goon Squad
+        author: Jennifer Egan
+        year: 2010
+        
+      - title: Train the Dog in Front of You
+        author: Denise Fenzi
+        year: 2016
+    
       - title: The Unbearable Lightness of Being
         author: Milan Kundera
         year: 1984
