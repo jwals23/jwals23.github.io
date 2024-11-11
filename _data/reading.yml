@@ -1,6 +1,14 @@
 list:
   - year: "2024"
     books:
+      - title: Issue no. 76
+        author: The Baffler
+        year: 2024
+        
+      - title: Hippolytus
+        author: Euripides (translated by Rachel Kitzinger)
+        year: translation 2016
+    
       - title: A Visit from the Goon Squad
         author: Jennifer Egan
         year: 2010
