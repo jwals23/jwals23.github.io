@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: A Study in Scarlet
+        author: Arthur Conan Doyle
+        year: 1887
+        
       - title: Issue no. 76
         author: The Baffler
         year: 2024
