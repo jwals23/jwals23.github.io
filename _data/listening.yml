@@ -1,4 +1,51 @@
 list:
+  - year: "2024"
+    albums:
+      - title: Honey
+        artist: Caribou
+
+      - title: Acadia
+        artist: Yasmin Williams
+
+      - title: Norther
+        artist: Ex-Easter Island Head
+
+      - title: Bright Future
+        artist: Adrianne Lenker
+
+      - title: When I'm Called
+        artist: Jake Xerxes Fussell
+
+      - title: Bite Down
+        artist: Rosali
+
+      - title: Stay Golden
+        artist: Combat
+
+      - title: Paul Bunyan's Slingshot
+        artist: Liquid Mike
+
+      - title: Box for Buddy, Box for Star
+        artist: This is Lorelai
+
+      - title: Harm's Way
+        artist: Ducks Ltd.
+
+      - title: The Fool
+        artist: Young Jesus
+
+      - title: Frail Bouquet
+        artist: Artificial Body
+
+      - title: Diamond Jubilee
+        artist: Cindy Lee
+
+      - title: Tigers Blood
+        artist: Waxahatchee
+
+      - title: Death Jokes
+        artist: Amen Dunes
+
   - year: "2023"
     albums:
       - title: Time Ain't Accidental
