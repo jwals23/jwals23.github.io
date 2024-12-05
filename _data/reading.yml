@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: The Adventures of Sherlock Holmes
+        author: Arthur Conan Doyle
+        year: 1892
+    
       - title: The Sign of the Four
         author: Arthur Conan Doyle
         year: 1890
