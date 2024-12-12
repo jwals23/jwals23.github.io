@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: The Memoirs of Sherlock Holmes
+        author: Arthur Conan Doyle
+        year: 1894
+    
       - title: The Adventures of Sherlock Holmes
         author: Arthur Conan Doyle
         year: 1892
