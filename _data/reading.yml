@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Trojan Women
+        author: Euripides (translated by Emily Wilson)
+        year: translation 2016
+    
       - title: The Memoirs of Sherlock Holmes
         author: Arthur Conan Doyle
         year: 1894
@@ -12,6 +16,10 @@ list:
       - title: The Sign of the Four
         author: Arthur Conan Doyle
         year: 1890
+
+      - title: Electra
+        author: Euripides (translated by Emily Wilson)
+        year: translation 2016
     
       - title: A Study in Scarlet
         author: Arthur Conan Doyle
