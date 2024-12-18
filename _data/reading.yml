@@ -1,6 +1,10 @@
 list:
   - year: "2024"
     books:
+      - title: Expected Goals
+        author: Rory Smith
+        year: 2022
+    
       - title: Trojan Women
         author: Euripides (translated by Emily Wilson)
         year: translation 2016
