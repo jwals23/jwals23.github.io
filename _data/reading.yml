@@ -1,4 +1,11 @@
 list:
+  - year: "2025"
+    books:
+      - title: Wolf Hall
+        author: Hilary Mantel
+        year: 2009
+        star: yes
+        
   - year: "2024"
     books:
       - title: Helen
