@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: Bacchae
+        author: Euripides (translated by Emily Wilson)
+        year: translation 2016
+    
       - title: Wolf Hall
         author: Hilary Mantel
         year: 2009
