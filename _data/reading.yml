@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: Bring up the Bodies
+        author: Hilary Mantel
+        year: 2012
+        star: yes
+        
       - title: Bacchae
         author: Euripides (translated by Emily Wilson)
         year: translation 2016
