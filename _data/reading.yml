@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: Ultras
+        author: Tobias Jones
+        year: 2021
+    
       - title: Bring up the Bodies
         author: Hilary Mantel
         year: 2012
