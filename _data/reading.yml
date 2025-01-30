@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: Against Interpretation and Other Essays
+        author: Susan Sontag
+        year: 1966
+        star: yes
+    
       - title: Ultras
         author: Tobias Jones
         year: 2021
