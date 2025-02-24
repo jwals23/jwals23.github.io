@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: 1312 - Among the Ultras
+        author: James Montague
+        year: 2020
+        star: yes
+    
       - title: Beyond the Back Yard
         author: Denise Fenzi
         year: 2016
