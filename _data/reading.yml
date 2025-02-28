@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: Society of the Spectacle
+        author: Guy Debord
+        year: 1967
+    
       - title: 1312 - Among the Ultras
         author: James Montague
         year: 2020
