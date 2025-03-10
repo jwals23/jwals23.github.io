@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: Issue no. 77
+        author: The Baffler
+        year: 2025
+    
       - title: Great Expectations
         author: Vinson Cunningham
         year: 2024
