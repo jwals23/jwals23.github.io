@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: Someone Like Us
+        author: Dinaw Mengestu
+        year: 2024
+        star: yes
+    
       - title: Issue no. 77
         author: The Baffler
         year: 2025
