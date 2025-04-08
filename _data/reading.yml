@@ -1,8 +1,13 @@
 list:
   - year: "2025"
     books:
+      - title: Music and the Historical Imagination
+        author: Leo Treitler
+        year: 1989
+        star: yes
+    
       - title: Beautyland
-        author: Marie-Helen Bertino
+        author: Marie-Helene Bertino
         year: 2024
         star: yes
     
