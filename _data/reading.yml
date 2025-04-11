@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: Issue no. 78
+        author: The Baffler
+        year: 2025
+    
       - title: Music and the Historical Imagination
         author: Leo Treitler
         year: 1989
