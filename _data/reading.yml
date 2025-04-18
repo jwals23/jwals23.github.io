@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: James
+        author: Percival Everett
+        year: 2024
+        star: yes
+    
       - title: Issue no. 78
         author: The Baffler
         year: 2025
