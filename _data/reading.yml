@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: The Book Censor's Library
+        author: Bothayna al-Essa
+        year: 2024
+        star: yes
+    
       - title: James
         author: Percival Everett
         year: 2024
