@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: The Shield of Herakles
+        author: Hesiod (translated by Barry Powell)
+        year: translation 2017
+    
       - title: The Book Censor's Library
         author: Bothayna al-Essa
         year: 2024
