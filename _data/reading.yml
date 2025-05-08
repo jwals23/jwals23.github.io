@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: Martyr!
+        author: Kaveh Akbar
+        year: 2024
+        star: yes
+    
       - title: The Shield of Herakles
         author: Hesiod (translated by Barry Powell)
         year: translation 2017
