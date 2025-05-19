@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: Rejection
+        author: Tony Tulathimutte
+        year: 2024
+        star: yes
+    
       - title: Martyr!
         author: Kaveh Akbar
         year: 2024
