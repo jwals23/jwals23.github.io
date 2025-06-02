@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: The Extinction of Irena Rey
+        author: Jennifer Croft
+        year: 2024
+    
       - title: Rejection
         author: Tony Tulathimutte
         year: 2024
