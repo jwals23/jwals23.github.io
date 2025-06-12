@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: Issue no. 79
+        author: The Baffler
+        year: 2025
+    
       - title: Colored Television
         author: Danzy Senna
         year: 2024
