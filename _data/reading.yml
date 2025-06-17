@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: The Comedy of Errors
+        author: William Shakespeare
+        year: c. 1594
+    
       - title: Issue no. 79
         author: The Baffler
         year: 2025
