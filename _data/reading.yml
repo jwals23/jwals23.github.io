@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: Springer's Progress
+        author: David Markson
+        year: 1977
+      
       - title: The Comedy of Errors
         author: William Shakespeare
         year: c. 1594
