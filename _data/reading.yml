@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: Big Structures, Large Processes, Huge Comparisons
+        author: Charles Tilly
+        year: 1984
+    
       - title: Springer's Progress
         author: David Markson
         year: 1977
