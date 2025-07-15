@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: Orbital
+        author: Samantha Harvey
+        year: 2023
+    
       - title: The History of Sound
         author: Ben Shattuck
         year: 2024
