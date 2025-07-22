@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: The Savage Detectives
+        author: Roberto Bolano
+        year: 1998 [2007]
+        star: yes
+    
       - title: Orbital
         author: Samantha Harvey
         year: 2023
