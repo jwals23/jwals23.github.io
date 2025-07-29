@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: Crying in H Mart
+        author: Michelle Zauner
+        year: 2021
+    
       - title: The Savage Detectives
         author: Roberto Bolano
         year: 1998 [2007]
