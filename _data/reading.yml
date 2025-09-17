@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: 2666
+        author: Roberto Bolano
+        year: 2004 [2008]
+    
       - title: Crying in H Mart
         author: Michelle Zauner
         year: 2021
