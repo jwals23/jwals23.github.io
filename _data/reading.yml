@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: Issue no. 80
+        author: The Baffler
+        year: 2025
+    
       - title: Such Great Heights
         author: Chris Deville
         year: 2025
