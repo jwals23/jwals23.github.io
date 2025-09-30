@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: Paved Paradise
+        author: Henry Grabar
+        year: 2024
+        star: yes
+    
       - title: Issue no. 80
         author: The Baffler
         year: 2025
