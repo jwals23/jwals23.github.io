@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: The Antidote
+        author: Karen Russell
+        year: 2025
+        
       - title: Margo's Got Money Troubles
         author: Rufi Thorpe
         year: 2024
