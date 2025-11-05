@@ -1,6 +1,10 @@
 list:
   - year: "2025"
     books:
+      - title: The South
+        author: Tash Aw
+        year: 2025
+    
       - title: The Antidote
         author: Karen Russell
         year: 2025
