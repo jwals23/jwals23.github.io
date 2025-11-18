@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: Pan
+        author: Michael Clune
+        year: 2025
+        star: yes
+    
       - title: Issue no. 81
         author: The Baffler
         year: 2025
