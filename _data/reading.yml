@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: Mood Machine
+        author: Liz Pelly
+        year: 2025
+        star: yes
+        
       - title: Pan
         author: Michael Clune
         year: 2025
