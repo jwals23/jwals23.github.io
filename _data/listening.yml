@@ -1,4 +1,66 @@
 list:
+  - year: "2025"
+    albums:
+      - title: Thank You, Guitar
+        artist: Cyrus Pireh
+
+      - title: Last Leg of the Human Table
+        artist: Cloakroom
+
+      - title: Warsam 480km
+        artist: pôt-pot
+        
+      - title: 1000 Variations on the Same Song
+        artist: Frog
+
+      - title: Horses
+        artist: Tobacco City
+
+      - title: SAYA
+        artist: Saya Grey
+
+      - title: The Scholars
+        artist: Car Seat Headrest
+
+      - title: Sounds Like...
+        artist: Florry
+
+      - title: Dan's Boogie
+        artist: Destroyer
+
+      - title: Dia
+        artist: Ela Minus
+
+      - title: What of Our Nature
+        artist: Haley Heynderickx & Max Garcia Conover
+
+      - title: God's Gonna Give You a Million Dollars
+        artist: Shallowater
+        
+      - title: Winged Victory
+        artist: Willi Carlisle
+
+      - title: Phonetics On and On
+        artist: Horsegirl
+
+      - title: The Spiritual Sound
+        artist: Agriculture
+
+      - title: When I Paint My Masterpiece
+        artist: Ada Lea
+
+      - title: Snocaps
+        artist: Snocaps
+        
+      - title: Life Is Strange
+        artist: Garrett T. Capps
+
+      - title: Getting Killed
+        artist: Geese
+
+      - title: New Threats from the Soul
+        artist: Ryan Davis & the Roadhouse Band
+        
   - year: "2024"
     albums:
       - title: Honey
