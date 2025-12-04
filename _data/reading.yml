@@ -1,6 +1,15 @@
 list:
   - year: "2025"
     books:
+      - title: Epitaph for a Dead Beat
+        author: David Markson
+        year: 1961
+    
+      - title: Epitaph for a Tramp
+        author: David Markson
+        year: 1959
+        star: yes
+    
       - title: Mood Machine
         author: Liz Pelly
         year: 2025
