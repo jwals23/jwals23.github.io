@@ -1,6 +1,11 @@
 list:
   - year: "2025"
     books:
+      - title: The Ballad of Dingus Magee
+        author: David Markson
+        year: 1965
+        star: yes
+    
       - title: Epitaph for a Dead Beat
         author: David Markson
         year: 1961
