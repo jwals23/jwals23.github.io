@@ -1,4 +1,11 @@
 list:
+  -year: "2026"
+    books:
+      - title: The Sympathizer
+        author: Viet Thanh Nguyen
+        year: 2015
+        star: yes
+        
   - year: "2025"
     books:
       - title: The Loser
