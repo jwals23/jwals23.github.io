@@ -1,6 +1,11 @@
 list:
   - year: "2026"
     books:
+      - title: Middlemarch
+        author: George Eliot
+        year: 1872
+        star: yes
+        
       - title: The Sympathizer
         author: Viet Thanh Nguyen
         year: 2015
