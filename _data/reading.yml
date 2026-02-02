@@ -1,6 +1,10 @@
 list:
   - year: "2026"
     books:
+      - title: Who Owns Football?
+        author: Nick Miller
+        year: 2024
+        
       - title: Middlemarch
         author: George Eliot
         year: 1872
