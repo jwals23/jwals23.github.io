@@ -1,6 +1,11 @@
 list:
   - year: "2026"
     books:
+      - title: Brilliant Orange
+        author: David Winner
+        year: 2000
+        star: yes
+    
       - title: Who Owns Football?
         author: Nick Miller
         year: 2024
