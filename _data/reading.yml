@@ -1,6 +1,10 @@
 list:
   - year: "2026"
     books:
+      - title: The Unicorn Woman
+        author: Gayl Jones
+        year: 2025
+        
       - title: Brilliant Orange
         author: David Winner
         year: 2000
