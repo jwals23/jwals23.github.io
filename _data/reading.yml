@@ -1,6 +1,11 @@
 list:
   - year: "2026"
     books:
+      - title: A Guardian and a Thief
+        author: Megha Majumdar
+        year: 2025
+        star: yes
+        
       - title: Mice 1961
         author: Stacey Levine
         year: 2024
