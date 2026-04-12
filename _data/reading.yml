@@ -1,6 +1,11 @@
 list:
   - year: "2026"
     books:
+      - title: When Friday Comes
+        author: James Montague
+        year: 2022
+        star: yes
+        
       - title: A Guardian and a Thief
         author: Megha Majumdar
         year: 2025
