@@ -1,6 +1,10 @@
 list:
   - year: "2026"
     books:
+      - title: Issue no. 83
+        author: The Baffler
+        year: 2026
+    
       - title: When Friday Comes
         author: James Montague
         year: 2022
