@@ -1,6 +1,11 @@
 list:
   - year: "2026"
     books:
+      - title: Ghostroots
+        author: 'Pemi Aguda
+        year: 2024
+        star: yes
+    
       - title: Issue no. 83
         author: The Baffler
         year: 2026
