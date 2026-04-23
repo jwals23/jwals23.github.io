@@ -2,7 +2,7 @@ list:
   - year: "2026"
     books:
       - title: Ghostroots
-        author: 'Pemi Aguda
+        author: Pemi Aguda
         year: 2024
         star: yes
     
