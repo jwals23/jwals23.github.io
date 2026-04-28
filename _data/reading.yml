@@ -1,6 +1,11 @@
 list:
   - year: "2026"
     books:
+      - title: The Story of My Teeth
+        author: Valeria Luiselli
+        year: 2015
+        star: yes
+        
       - title: Ghostroots
         author: Pemi Aguda
         year: 2024
