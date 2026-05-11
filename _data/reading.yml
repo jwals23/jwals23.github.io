@@ -1,6 +1,11 @@
 list:
   - year: "2026"
     books:
+      - title: Fever Pitch
+        author: Nick Hornby
+        year: 1992
+        star: yes
+    
       - title: The Story of My Teeth
         author: Valeria Luiselli
         year: 2015
