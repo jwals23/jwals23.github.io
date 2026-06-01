@@ -1,6 +1,10 @@
 list:
   - year: "2026"
     books:
+      - title: Issue no. 84
+        author: The Baffler
+        year: 2026
+    
       - title: The Three-Body Problem
         author: Cixin Liu
         year: 2008
