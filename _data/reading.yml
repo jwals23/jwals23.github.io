@@ -1,6 +1,11 @@
 list:
   - year: "2026"
     books:
+      - title: Audition
+        author: Katie Kitamura
+        year: 2025
+        star: yes
+        
       - title: Issue no. 84
         author: The Baffler
         year: 2026
