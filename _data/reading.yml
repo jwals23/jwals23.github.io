@@ -1,6 +1,10 @@
 list:
   - year: "2026"
     books:
+      - title: Stag Dance
+        author: Torrey Peters
+        year: 2025
+        
       - title: The True True Story of Raja the Gullible (and His Mother)
         author: Rabih Alameddine
         year: 2025
