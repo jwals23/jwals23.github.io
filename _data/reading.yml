@@ -1,6 +1,11 @@
 list:
   - year: "2026"
     books:
+      - title: Small Rain
+        author: Garth Greenwell
+        year: 2025
+        star: yes
+        
       - title: Stag Dance
         author: Torrey Peters
         year: 2025
