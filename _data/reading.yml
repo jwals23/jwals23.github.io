@@ -1,6 +1,10 @@
 list:
   - year: "2026"
     books:
+      - title: Greenland
+        author: David Santos Donaldson
+        year: 2021
+        
       - title: Small Rain
         author: Garth Greenwell
         year: 2025
