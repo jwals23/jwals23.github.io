@@ -1,6 +1,10 @@
 list:
   - year: "2026"
     books:
+      - title: The Iliad
+        author: Homer (translated by Emily Wilson)
+        year: 2023
+        
       - title: Greenland
         author: David Santos Donaldson
         year: 2021
