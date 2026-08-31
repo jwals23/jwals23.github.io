@@ -1,6 +1,11 @@
 list:
   - year: "2026"
     books:
+      - title: What Belongs To Us
+        author: Garth Greenwell
+        year: 2016
+        star: yes
+        
       - title: The Iliad
         author: Homer (translated by Emily Wilson)
         year: 2023
