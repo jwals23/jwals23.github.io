@@ -1,6 +1,10 @@
 list:
   - year: "2026"
     books:
+      - title: Cleanness
+        author: Garth Greenwell
+        year: 2020
+    
       - title: What Belongs To Us
         author: Garth Greenwell
         year: 2016
