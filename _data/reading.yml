@@ -1,6 +1,10 @@
 list:
   - year: "2026"
     books:
+    - title: Issue no. 85
+        author: The Baffler
+        year: 2026
+
       - title: Cleanness
         author: Garth Greenwell
         year: 2020
