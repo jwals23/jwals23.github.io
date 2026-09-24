@@ -1,7 +1,7 @@
 list:
   - year: "2026"
     books:
-    - title: Issue no. 85
+      - title: Issue no. 85
         author: The Baffler
         year: 2026
 
