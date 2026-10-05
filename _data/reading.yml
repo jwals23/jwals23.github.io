@@ -1,6 +1,10 @@
 list:
   - year: "2026"
     books:
+      - title: Shadows of the Pomegranate Tree
+        author: Tariq Ali
+        year: 1992
+        
       - title: Issue no. 85
         author: The Baffler
         year: 2026
