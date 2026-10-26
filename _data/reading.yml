@@ -1,6 +1,11 @@
 list:
   - year: "2026"
     books:
+      - title: The Book of Saladin
+        author: Tariq Ali
+        year: 1998
+        star: yes
+        
       - title: Shadows of the Pomegranate Tree
         author: Tariq Ali
         year: 1992
