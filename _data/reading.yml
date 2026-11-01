@@ -1,6 +1,10 @@
 list:
   - year: "2026"
     books:
+      - title: The Odyssey
+        author: Homer (translated by Emily Wilson)
+        year: 2017
+    
       - title: The Book of Saladin
         author: Tariq Ali
         year: 1998
